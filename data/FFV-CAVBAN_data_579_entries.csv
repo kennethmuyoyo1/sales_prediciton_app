@@ -1,0 +1,580 @@
+Date,Product Name,Quantity
+2021-11-21,Banana Bunch,2
+2021-11-22,Banana Bunch,6
+2021-11-23,Banana Bunch,9
+2021-11-24,Banana Bunch,10
+2021-11-25,Banana Bunch,2
+2021-11-26,Banana Bunch,3
+2021-11-27,Banana Bunch,2
+2021-11-28,Banana Bunch,4
+2021-11-29,Banana Bunch,8
+2021-11-30,Banana Bunch,1
+2021-12-18,Meru Banana Bunch,6
+2021-12-19,Meru Banana Bunch,2
+2021-12-20,Meru Banana Bunch,3
+2021-12-21,Meru Banana Bunch,1
+2021-12-22,Meru Banana Bunch,4
+2021-12-23,Meru Banana Bunch,4
+2021-12-24,Meru Banana Bunch,3
+2021-12-28,Meru Banana Bunch,2
+2021-12-29,Meru Banana Bunch,1
+2021-12-30,Meru Banana Bunch,4
+2021-12-31,Meru Banana Bunch,9
+2022-01-02,Meru Banana Bunch,4
+2022-01-03,Meru Banana Bunch,12
+2022-01-04,Meru Banana Bunch,10
+2022-01-05,Meru Banana Bunch,14
+2022-01-06,Meru Banana Bunch,4
+2022-01-07,Meru Banana Bunch,18
+2022-01-08,Meru Banana Bunch,2
+2022-01-09,Meru Banana Bunch,2
+2022-01-10,Meru Banana Bunch,18
+2022-01-11,Meru Banana Bunch,20
+2022-01-12,Meru Banana Bunch,10
+2022-01-13,Meru Banana Bunch,8
+2022-01-14,Meru Banana Bunch,12
+2022-01-15,Meru Banana Bunch,22
+2022-01-16,Meru Banana Bunch,15
+2022-01-17,Meru Banana Bunch,45
+2022-01-18,Meru Banana Bunch,18
+2022-01-19,Meru Banana Bunch,11
+2022-01-20,Meru Banana Bunch,9
+2022-01-21,Meru Banana Bunch,4
+2022-01-22,Meru Banana Bunch,6
+2022-01-23,Meru Banana Bunch,4
+2022-01-24,Meru Banana Bunch,28
+2022-01-25,Meru Banana Bunch,16
+2022-01-26,Meru Banana Bunch,18
+2022-01-27,Meru Banana Bunch,14
+2022-01-28,Meru Banana Bunch,16
+2022-01-29,Meru Banana Bunch,14
+2022-01-30,Meru Banana Bunch,4
+2022-01-31,Meru Banana Bunch,14
+2022-02-01,Meru Banana Bunch,22
+2022-02-02,Meru Banana Bunch,18
+2022-02-03,Meru Banana Bunch,12
+2022-02-04,Meru Banana Bunch,26
+2022-02-05,Meru Banana Bunch,8
+2022-02-06,Meru Banana Bunch,16
+2022-02-07,Meru Banana Bunch,42
+2022-02-08,Meru Banana Bunch,12
+2022-02-09,Meru Banana Bunch,4
+2022-02-10,Meru Banana Bunch,8
+2022-02-11,Meru Banana Bunch,8
+2022-02-12,Meru Banana Bunch,18
+2022-02-13,Meru Banana Bunch,4
+2022-02-14,Meru Banana Bunch,22
+2022-02-15,Meru Banana Bunch,18
+2022-02-16,Meru Banana Bunch,12
+2022-02-17,Meru Banana Bunch,16
+2022-02-18,Meru Banana Bunch,14
+2022-02-19,Meru Banana Bunch,4
+2022-02-20,Meru Banana Bunch,4
+2022-02-21,Meru Banana Bunch,18
+2022-02-22,Meru Banana Bunch,40
+2022-02-23,Meru Banana Bunch,14
+2022-02-24,Meru Banana Bunch,12
+2022-02-25,Meru Banana Bunch,14
+2022-02-26,Meru Banana Bunch,6
+2022-02-27,Meru Banana Bunch,10
+2022-02-28,Meru Banana Bunch,22
+2022-03-01,Meru Banana Bunch,17
+2022-03-02,Meru Banana Bunch,9
+2022-03-03,Meru Banana Bunch,8
+2022-03-04,Meru Banana Bunch,6
+2022-03-05,Meru Banana Bunch,4
+2022-03-06,Meru Banana Bunch,3
+2022-03-07,Meru Banana Bunch,13
+2022-03-08,Meru Banana Bunch,8
+2022-03-09,Meru Banana Bunch,12
+2022-03-10,Meru Banana Bunch,3
+2022-03-11,Meru Banana Bunch,13
+2022-03-12,Meru Banana Bunch,6
+2022-03-13,Meru Banana Bunch,6
+2022-03-14,Meru Banana Bunch,3
+2022-03-15,Meru Banana Bunch,1
+2022-03-16,Meru Banana Bunch,1
+2022-03-17,Meru Banana Bunch,6
+2022-03-18,Meru Banana Bunch,5
+2022-03-19,Meru Banana Bunch,6
+2022-03-20,Meru Banana Bunch,5
+2022-03-21,Meru Banana Bunch,9
+2022-03-22,Meru Banana Bunch,9
+2022-03-23,Meru Banana Bunch,11
+2022-03-24,Meru Banana Bunch,14
+2022-03-25,Meru Banana Bunch,14
+2022-03-26,Meru Banana Bunch,6
+2022-03-27,Meru Banana Bunch,6
+2022-03-28,Meru Banana Bunch,15
+2022-03-29,Meru Banana Bunch,17
+2022-03-30,Meru Banana Bunch,9
+2022-03-31,Meru Banana Bunch,6
+2022-04-01,Meru Banana Bunch,5
+2022-04-02,Meru Banana Bunch,18
+2022-04-03,Meru Banana Bunch,5
+2022-04-04,Meru Banana Bunch,16
+2022-04-05,Meru Banana Bunch,14
+2022-04-06,Meru Banana Bunch,8
+2022-04-07,Meru Banana Bunch,9
+2022-04-08,Meru Banana Bunch,4
+2022-04-09,Meru Banana Bunch,4
+2022-04-10,Meru Banana Bunch,4
+2022-04-11,Meru Banana Bunch,12
+2022-04-12,Meru Banana Bunch,8
+2022-04-13,Meru Banana Bunch,6
+2022-04-14,Meru Banana Bunch,6
+2022-04-15,Meru Banana Bunch,2
+2022-04-16,Meru Banana Bunch,2
+2022-04-17,Meru Banana Bunch,2
+2022-04-18,Meru Banana Bunch,2
+2022-04-19,Meru Banana Bunch,8
+2022-04-20,Meru Banana Bunch,11
+2022-04-21,Meru Banana Bunch,10
+2022-04-22,Meru Banana Bunch,7
+2022-04-23,Meru Banana Bunch,4
+2022-04-24,Meru Banana Bunch,2
+2022-04-25,Meru Banana Bunch,5
+2022-04-26,Meru Banana Bunch,8
+2022-04-27,Meru Banana Bunch,4
+2022-04-28,Meru Banana Bunch,19
+2022-04-29,Meru Banana Bunch,8
+2022-04-30,Meru Banana Bunch,3
+2022-05-01,Meru Banana Bunch,2
+2022-05-02,Meru Banana Bunch,1
+2022-05-03,Meru Banana Bunch,5
+2022-05-04,Meru Banana Bunch,11
+2022-05-05,Meru Banana Bunch,13
+2022-05-06,Meru Banana Bunch,14
+2022-05-07,Meru Banana Bunch,5
+2022-05-08,Meru Banana Bunch,3
+2022-05-09,Meru Banana Bunch,8
+2022-05-10,Meru Banana Bunch,6
+2022-05-11,Meru Banana Bunch,5
+2022-05-12,Meru Banana Bunch,4
+2022-05-13,Meru Banana Bunch,12
+2022-05-14,Meru Banana Bunch,5
+2022-05-15,Meru Banana Bunch,2
+2022-05-16,Meru Banana Bunch,8
+2022-05-17,Meru Banana Bunch,9
+2022-05-18,Meru Banana Bunch,9
+2022-05-19,Meru Banana Bunch,6
+2022-05-20,Meru Banana Bunch,6
+2022-05-21,Meru Banana Bunch,2
+2022-05-22,Meru Banana Bunch,7
+2022-05-23,Meru Banana Bunch,11
+2022-05-24,Meru Banana Bunch,10
+2022-05-25,Meru Banana Bunch,6
+2022-05-26,Meru Banana Bunch,6
+2022-05-27,Meru Banana Bunch,8
+2022-05-28,Meru Banana Bunch,11
+2022-05-29,Meru Banana Bunch,5
+2022-05-30,Meru Banana Bunch,15
+2022-05-31,Meru Banana Bunch,9
+2022-06-01,Meru Banana Bunch,6
+2022-06-02,Meru Banana Bunch,7
+2022-06-03,Meru Banana Bunch,8
+2022-06-04,Meru Banana Bunch,5
+2022-06-05,Meru Banana Bunch,3
+2022-06-06,Meru Banana Bunch,9
+2022-06-07,Meru Banana Bunch,7
+2022-06-08,Meru Banana Bunch,7
+2022-06-09,Meru Banana Bunch,8
+2022-06-10,Meru Banana Bunch,6
+2022-06-11,Meru Banana Bunch,1
+2022-06-12,Meru Banana Bunch,4
+2022-06-13,Meru Banana Bunch,18
+2022-06-14,Meru Banana Bunch,9
+2022-06-15,Meru Banana Bunch,8
+2022-06-16,Meru Banana Bunch,5
+2022-06-17,Meru Banana Bunch,6
+2022-06-18,Meru Banana Bunch,11
+2022-06-20,Meru Banana Bunch,13
+2022-06-21,Meru Banana Bunch,14
+2022-06-22,Meru Banana Bunch,6
+2022-06-23,Meru Banana Bunch,15
+2022-06-24,Meru Banana Bunch,13
+2022-06-25,Meru Banana Bunch,10
+2022-06-26,Meru Banana Bunch,5
+2022-06-27,Meru Banana Bunch,13
+2022-06-28,Meru Banana Bunch,7
+2022-06-29,Meru Banana Bunch,7
+2022-06-30,Meru Banana Bunch,2
+2022-07-01,Meru Banana Bunch,7
+2022-07-02,Meru Banana Bunch,10
+2022-07-03,Meru Banana Bunch,2
+2022-07-04,Meru Banana Bunch,12
+2022-07-05,Meru Banana Bunch,12
+2022-07-06,Meru Banana Bunch,8
+2022-07-07,Meru Banana Bunch,8
+2022-07-08,Meru Banana Bunch,3
+2022-07-09,Meru Banana Bunch,8
+2022-07-10,Meru Banana Bunch,9
+2022-07-11,Meru Banana Bunch,8
+2022-07-12,Meru Banana Bunch,10
+2022-07-13,Meru Banana Bunch,7
+2022-07-14,Meru Banana Bunch,8
+2022-07-15,Meru Banana Bunch,12
+2022-07-16,Meru Banana Bunch,3
+2022-07-17,Meru Banana Bunch,5
+2022-07-18,Meru Banana Bunch,12
+2022-07-19,Meru Banana Bunch,10
+2022-07-20,Meru Banana Bunch,13
+2022-07-21,Meru Banana Bunch,8
+2022-07-22,Meru Banana Bunch,4
+2022-07-23,Meru Banana Bunch,2
+2022-07-24,Meru Banana Bunch,5
+2022-07-25,Meru Banana Bunch,11
+2022-07-26,Meru Banana Bunch,12
+2022-07-27,Meru Banana Bunch,11
+2022-07-28,Meru Banana Bunch,4
+2022-07-29,Meru Banana Bunch,7
+2022-07-30,Meru Banana Bunch,6
+2022-07-31,Meru Banana Bunch,2
+2022-08-01,Meru Banana Bunch,13
+2022-08-02,Meru Banana Bunch,9
+2022-08-03,Meru Banana Bunch,8
+2022-08-04,Meru Banana Bunch,13
+2022-08-05,Meru Banana Bunch,14
+2022-08-06,Meru Banana Bunch,12
+2022-08-07,Meru Banana Bunch,8
+2022-08-08,Meru Banana Bunch,21
+2022-08-09,Meru Banana Bunch,4
+2022-08-10,Meru Banana Bunch,10
+2022-08-11,Meru Banana Bunch,10
+2022-08-12,Meru Banana Bunch,13
+2022-08-13,Meru Banana Bunch,9
+2022-08-14,Meru Banana Bunch,12
+2022-08-15,Meru Banana Bunch,10
+2022-08-16,Meru Banana Bunch,21
+2022-08-17,Meru Banana Bunch,9
+2022-08-18,Meru Banana Bunch,9
+2022-08-19,Meru Banana Bunch,21
+2022-08-20,Meru Banana Bunch,8
+2022-08-21,Meru Banana Bunch,8
+2022-08-22,Meru Banana Bunch,20
+2022-08-23,Meru Banana Bunch,14
+2022-08-24,Meru Banana Bunch,9
+2022-08-25,Meru Banana Bunch,12
+2022-08-26,Meru Banana Bunch,17
+2022-08-27,Meru Banana Bunch,12
+2022-08-28,Meru Banana Bunch,8
+2022-08-29,Meru Banana Bunch,24
+2022-08-30,Meru Banana Bunch,16
+2022-08-31,Meru Banana Bunch,6
+2022-09-01,Meru Banana Bunch,17
+2022-09-02,Meru Banana Bunch,20
+2022-09-03,Meru Banana Bunch,9
+2022-09-04,Meru Banana Bunch,10
+2022-09-05,Meru Banana Bunch,20
+2022-09-06,Meru Banana Bunch,18
+2022-09-07,Meru Banana Bunch,8
+2022-09-08,Meru Banana Bunch,11
+2022-09-09,Meru Banana Bunch,17
+2022-09-10,Meru Banana Bunch,10
+2022-09-11,Meru Banana Bunch,8
+2022-09-12,Meru Banana Bunch,20
+2022-09-13,Meru Banana Bunch,7
+2022-09-14,Meru Banana Bunch,9
+2022-09-15,Meru Banana Bunch,9
+2022-09-16,Meru Banana Bunch,16
+2022-09-17,Meru Banana Bunch,9
+2022-09-18,Meru Banana Bunch,5
+2022-09-19,Meru Banana Bunch,17
+2022-09-20,Meru Banana Bunch,16
+2022-09-21,Meru Banana Bunch,18
+2022-09-22,Meru Banana Bunch,6
+2022-09-23,Meru Banana Bunch,14
+2022-09-24,Meru Banana Bunch,8
+2022-09-25,Meru Banana Bunch,6
+2022-09-26,Meru Banana Bunch,10
+2022-09-27,Meru Banana Bunch,20
+2022-09-28,Meru Banana Bunch,16
+2022-09-29,Meru Banana Bunch,11
+2022-09-30,Meru Banana Bunch,13
+2022-10-01,Meru Banana Bunch,11
+2022-10-02,Meru Banana Bunch,4
+2022-10-03,Meru Banana Bunch,22
+2022-10-04,Meru Banana Bunch,15
+2022-10-05,Meru Banana Bunch,12
+2022-10-06,Meru Banana Bunch,13
+2022-10-07,Meru Banana Bunch,19
+2022-10-08,Meru Banana Bunch,13
+2022-10-09,Meru Banana Bunch,8
+2022-10-10,Meru Banana Bunch,16
+2022-10-11,Meru Banana Bunch,29
+2022-10-12,Meru Banana Bunch,21
+2022-10-13,Meru Banana Bunch,12
+2022-10-14,Meru Banana Bunch,15
+2022-10-15,Meru Banana Bunch,9
+2022-10-16,Meru Banana Bunch,10
+2022-10-17,Meru Banana Bunch,20
+2022-10-18,Meru Banana Bunch,28
+2022-10-19,Meru Banana Bunch,8
+2022-10-20,Meru Banana Bunch,6
+2022-10-21,Meru Banana Bunch,18
+2022-10-22,Meru Banana Bunch,15
+2022-10-23,Meru Banana Bunch,20
+2022-10-24,Meru Banana Bunch,37
+2022-10-25,Meru Banana Bunch,19
+2022-10-26,Meru Banana Bunch,10
+2022-10-27,Meru Banana Bunch,17
+2022-10-28,Meru Banana Bunch,13
+2022-10-29,Meru Banana Bunch,14
+2022-10-30,Meru Banana Bunch,7
+2022-10-31,Meru Banana Bunch,20
+2022-11-01,Meru Banana Bunch,18
+2022-11-02,Meru Banana Bunch,16
+2022-11-03,Meru Banana Bunch,20
+2022-11-04,Meru Banana Bunch,12
+2022-11-05,Meru Banana Bunch,19
+2022-11-06,Meru Banana Bunch,20
+2022-11-07,Meru Banana Bunch,18
+2022-11-08,Meru Banana Bunch,18
+2022-11-09,Meru Banana Bunch,15
+2022-11-10,Meru Banana Bunch,12
+2022-11-11,Meru Banana Bunch,11
+2022-11-12,Meru Banana Bunch,19
+2022-11-13,Meru Banana Bunch,11
+2022-11-14,Meru Banana Bunch,29
+2022-11-15,Meru Banana Bunch,16
+2022-11-16,Meru Banana Bunch,8
+2022-11-17,Meru Banana Bunch,7
+2022-11-18,Meru Banana Bunch,15
+2022-11-19,Meru Banana Bunch,10
+2022-11-20,Meru Banana Bunch,11
+2022-11-21,Meru Banana Bunch,28
+2022-11-22,Meru Banana Bunch,20
+2022-11-23,Meru Banana Bunch,11
+2022-11-24,Meru Banana Bunch,15
+2022-11-25,Meru Banana Bunch,19
+2022-11-26,Meru Banana Bunch,14
+2022-11-27,Meru Banana Bunch,9
+2022-11-28,Meru Banana Bunch,28
+2022-11-29,Meru Banana Bunch,18
+2022-11-30,Meru Banana Bunch,6
+2022-12-01,Meru Banana Bunch,10
+2022-12-02,Meru Banana Bunch,19
+2022-12-03,Meru Banana Bunch,20
+2022-12-04,Meru Banana Bunch,9
+2022-12-05,Meru Banana Bunch,25
+2022-12-06,Meru Banana Bunch,21
+2022-12-07,Meru Banana Bunch,11
+2022-12-08,Meru Banana Bunch,21
+2022-12-09,Meru Banana Bunch,21
+2022-12-10,Meru Banana Bunch,7
+2022-12-11,Meru Banana Bunch,6
+2022-12-12,Meru Banana Bunch,11
+2022-12-13,Meru Banana Bunch,14
+2022-12-14,Meru Banana Bunch,22
+2022-12-15,Meru Banana Bunch,15
+2022-12-16,Meru Banana Bunch,24
+2022-12-17,Meru Banana Bunch,7
+2022-12-18,Meru Banana Bunch,3
+2022-12-19,Meru Banana Bunch,18
+2022-12-20,Meru Banana Bunch,12
+2022-12-21,Meru Banana Bunch,12
+2022-12-22,Meru Banana Bunch,17
+2022-12-23,Meru Banana Bunch,12
+2022-12-24,Meru Banana Bunch,10
+2022-12-25,Meru Banana Bunch,1
+2022-12-26,Meru Banana Bunch,3
+2022-12-27,Meru Banana Bunch,8
+2022-12-28,Meru Banana Bunch,12
+2022-12-29,Meru Banana Bunch,15
+2022-12-30,Meru Banana Bunch,19
+2022-12-31,Meru Banana Bunch,6
+2023-01-01,Meru Banana Bunch,2
+2023-01-02,Meru Banana Bunch,14
+2023-01-03,Meru Banana Bunch,30
+2023-01-04,Meru Banana Bunch,31
+2023-01-05,Meru Banana Bunch,21
+2023-01-06,Meru Banana Bunch,11
+2023-01-07,Meru Banana Bunch,9
+2023-01-08,Meru Banana Bunch,21
+2023-01-09,Meru Banana Bunch,27
+2023-01-10,Meru Banana Bunch,22
+2023-01-11,Meru Banana Bunch,20
+2023-01-12,Meru Banana Bunch,12
+2023-01-13,Meru Banana Bunch,13
+2023-01-14,Meru Banana Bunch,23
+2023-01-15,Meru Banana Bunch,17
+2023-01-16,Meru Banana Bunch,39
+2023-01-17,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-01-17,Meru Banana Bunch,6
+2023-01-18,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-01-19,Meru Banana Bunch- Approx.1.5kg-2kg,10
+2023-01-20,Meru Banana Bunch- Approx.1.5kg-2kg,26
+2023-01-21,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-01-22,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-01-23,Meru Banana Bunch- Approx.1.5kg-2kg,39
+2023-01-24,Meru Banana Bunch- Approx.1.5kg-2kg,26
+2023-01-25,Meru Banana Bunch- Approx.1.5kg-2kg,9
+2023-01-26,Meru Banana Bunch- Approx.1.5kg-2kg,9
+2023-01-27,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-01-28,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-01-29,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-01-30,Meru Banana Bunch- Approx.1.5kg-2kg,30
+2023-01-31,Meru Banana Bunch- Approx.1.5kg-2kg,28
+2023-02-01,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-02-02,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-02-03,Meru Banana Bunch- Approx.1.5kg-2kg,13
+2023-02-04,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-02-05,Meru Banana Bunch- Approx.1.5kg-2kg,13
+2023-02-06,Meru Banana Bunch- Approx.1.5kg-2kg,37
+2023-02-07,Meru Banana Bunch- Approx.1.5kg-2kg,29
+2023-02-08,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-02-09,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-02-10,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-02-11,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-02-12,Meru Banana Bunch- Approx.1.5kg-2kg,13
+2023-02-13,Meru Banana Bunch- Approx.1.5kg-2kg,28
+2023-02-14,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-02-15,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-02-16,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-02-17,Meru Banana Bunch- Approx.1.5kg-2kg,20
+2023-02-18,Meru Banana Bunch- Approx.1.5kg-2kg,20
+2023-02-19,Meru Banana Bunch- Approx.1.5kg-2kg,20
+2023-02-20,Meru Banana Bunch- Approx.1.5kg-2kg,42
+2023-02-21,Meru Banana Bunch- Approx.1.5kg-2kg,28
+2023-02-22,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-02-23,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-02-24,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-02-25,Meru Banana Bunch- Approx.1.5kg-2kg,11
+2023-02-26,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-02-27,Meru Banana Bunch- Approx.1.5kg-2kg,32
+2023-02-28,Meru Banana Bunch- Approx.1.5kg-2kg,32
+2023-03-01,Meru Banana Bunch- Approx.1.5kg-2kg,29
+2023-03-02,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-03-03,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-03-04,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-03-05,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-06,Meru Banana Bunch- Approx.1.5kg-2kg,32
+2023-03-07,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-03-08,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-03-09,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-03-10,Meru Banana Bunch- Approx.1.5kg-2kg,25
+2023-03-11,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-03-12,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-13,Meru Banana Bunch- Approx.1.5kg-2kg,42
+2023-03-14,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-15,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-16,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-03-17,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-03-18,Meru Banana Bunch- Approx.1.5kg-2kg,10
+2023-03-19,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-03-20,Meru Banana Bunch- Approx.1.5kg-2kg,35
+2023-03-21,Meru Banana Bunch- Approx.1.5kg-2kg,30
+2023-03-22,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-03-23,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-24,Meru Banana Bunch- Approx.1.5kg-2kg,8
+2023-03-25,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-03-26,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-03-27,Meru Banana Bunch- Approx.1.5kg-2kg,38
+2023-03-28,Meru Banana Bunch- Approx.1.5kg-2kg,25
+2023-03-29,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-03-30,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-03-31,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-04-01,Meru Banana Bunch- Approx.1.5kg-2kg,11
+2023-04-02,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-04-03,Meru Banana Bunch- Approx.1.5kg-2kg,30
+2023-04-04,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-04-05,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-04-06,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-04-07,Meru Banana Bunch- Approx.1.5kg-2kg,8
+2023-04-08,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-04-09,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-04-10,Meru Banana Bunch- Approx.1.5kg-2kg,11
+2023-04-11,Meru Banana Bunch- Approx.1.5kg-2kg,42
+2023-04-12,Meru Banana Bunch- Approx.1.5kg-2kg,27
+2023-04-13,Meru Banana Bunch- Approx.1.5kg-2kg,25
+2023-04-14,Meru Banana Bunch- Approx.1.5kg-2kg,13
+2023-04-15,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-04-16,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-04-17,Meru Banana Bunch- Approx.1.5kg-2kg,34
+2023-04-18,Meru Banana Bunch- Approx.1.5kg-2kg,18
+2023-04-19,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-04-20,Meru Banana Bunch- Approx.1.5kg-2kg,26
+2023-04-21,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-04-22,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-04-23,Meru Banana Bunch- Approx.1.5kg-2kg,12
+2023-04-24,Meru Banana Bunch- Approx.1.5kg-2kg,47
+2023-04-25,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-04-26,Meru Banana Bunch- Approx.1.5kg-2kg,18
+2023-04-27,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-04-28,Meru Banana Bunch- Approx.1.5kg-2kg,18
+2023-04-29,Meru Banana Bunch- Approx.1.5kg-2kg,11
+2023-04-30,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-05-01,Meru Banana Bunch- Approx.1.5kg-2kg,31
+2023-05-02,Meru Banana Bunch- Approx.1.5kg-2kg,57
+2023-05-03,Meru Banana Bunch- Approx.1.5kg-2kg,54
+2023-05-04,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-05-05,Meru Banana Bunch- Approx.1.5kg-2kg,26
+2023-05-06,Meru Banana Bunch- Approx.1.5kg-2kg,18
+2023-05-07,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-05-08,Meru Banana Bunch- Approx.1.5kg-2kg,27
+2023-05-09,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-05-10,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-05-11,Meru Banana Bunch- Approx.1.5kg-2kg,14
+2023-05-12,Meru Banana Bunch- Approx.1.5kg-2kg,16
+2023-05-13,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-05-14,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-05-15,Meru Banana Bunch- Approx.1.5kg-2kg,48
+2023-05-16,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-05-17,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-05-18,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-05-19,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-05-20,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-05-21,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-05-22,Meru Banana Bunch- Approx.1.5kg-2kg,30
+2023-05-23,Meru Banana Bunch- Approx.1.5kg-2kg,30
+2023-05-24,Meru Banana Bunch- Approx.1.5kg-2kg,23
+2023-05-25,Meru Banana Bunch- Approx.1.5kg-2kg,19
+2023-05-26,Meru Banana Bunch- Approx.1.5kg-2kg,21
+2023-05-27,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-05-28,Meru Banana Bunch- Approx.1.5kg-2kg,20
+2023-05-29,Meru Banana Bunch- Approx.1.5kg-2kg,28
+2023-05-30,Meru Banana Bunch- Approx.1.5kg-2kg,25
+2023-05-31,Meru Banana Bunch- Approx.1.5kg-2kg,22
+2023-06-01,Meru Banana Bunch- Approx.1.5kg-2kg,17
+2023-06-02,Meru Banana Bunch- Approx.1.5kg-2kg,18
+2023-06-03,Meru Banana Bunch- Approx.1.5kg-2kg,20
+2023-06-04,Meru Banana Bunch- Approx.1.5kg-2kg,24
+2023-06-05,Meru Banana Bunch- Approx.1.5kg-2kg,47
+2023-06-06,Meru Banana Bunch- Approx.1.5kg-2kg,34
+2023-06-07,Meru Banana Bunch- Approx.0.9kg - 1.2kg,5
+2023-06-07,Meru Banana Bunch- Approx.1.5kg-2kg,15
+2023-06-08,Meru Banana Bunch- Approx.0.9kg - 1.2kg,24
+2023-06-09,Meru Banana Bunch- Approx.0.9kg - 1.2kg,23
+2023-06-10,Meru Banana Bunch- Approx.0.9kg - 1.2kg,19
+2023-06-11,Meru Banana Bunch- Approx.0.9kg - 1.2kg,15
+2023-06-12,Meru Banana Bunch- Approx.0.9kg - 1.2kg,42
+2023-06-13,Meru Banana Bunch- Approx.0.9kg - 1.2kg,30
+2023-06-14,Meru Banana Bunch- Approx.0.9kg - 1.2kg,25
+2023-06-15,Meru Banana Bunch- Approx.0.9kg - 1.2kg,13
+2023-06-16,Meru Banana Bunch- Approx.0.9kg - 1.2kg,25
+2023-06-17,Meru Banana Bunch- Approx.0.9kg - 1.2kg,12
+2023-06-18,Meru Banana Bunch- Approx.0.9kg - 1.2kg,29
+2023-06-19,Meru Banana Bunch- Approx.0.9kg - 1.2kg,31
+2023-06-20,Meru Banana Bunch- Approx.0.9kg - 1.2kg,35
+2023-06-21,Meru Banana Bunch- Approx.0.9kg - 1.2kg,30
+2023-06-22,Meru Banana Bunch- Approx.0.9kg - 1.2kg,22
+2023-06-23,Meru Banana Bunch- Approx.0.9kg - 1.2kg,21
+2023-06-24,Meru Banana Bunch- Approx.0.9kg - 1.2kg,17
+2023-06-25,Meru Banana Bunch- Approx.0.9kg - 1.2kg,19
+2023-06-26,Meru Banana Bunch- Approx.0.9kg - 1.2kg,25
+2023-06-27,Meru Banana Bunch- Approx.0.9kg - 1.2kg,22
+2023-06-28,Meru Banana Bunch- Approx.0.9kg - 1.2kg,21
+2023-06-29,Meru Banana Bunch- Approx.0.9kg - 1.2kg,16
+2023-06-30,Meru Banana Bunch- Approx.0.9kg - 1.2kg,7
+2023-07-01,Meru Banana Bunch- Approx.0.9kg - 1.2kg,2
+2023-07-02,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-07-03,Meru Banana Bunch- Approx.0.9kg - 1.2kg,3
+2023-07-05,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-07-06,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-07-07,Meru Banana Bunch- Approx.0.9kg - 1.2kg,2
+2023-07-10,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-07-28,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-07-31,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-10-05,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2023-10-18,Meru Banana Bunch- Approx.0.9kg - 1.2kg,1
+2024-04-02,Meru Banana Bunch- Approx.0.9kg - 1.2kg,3

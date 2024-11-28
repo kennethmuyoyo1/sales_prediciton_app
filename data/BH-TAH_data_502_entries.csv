@@ -1,0 +1,503 @@
+Date,Product Name,Quantity
+2018-12-03,Tahini,1
+2018-12-07,Tahini,1
+2019-01-02,Tahini,1
+2019-01-04,Tahini,1
+2019-01-09,Tahini,1
+2019-01-21,Tahini,1
+2019-01-24,Tahini,1
+2019-01-29,Tahini,1
+2019-01-30,Tahini,1
+2019-01-31,Tahini,1
+2019-02-04,Tahini,1
+2019-02-05,Tahini,1
+2019-02-06,Tahini,1
+2019-02-12,Tahini,1
+2019-02-21,Tahini,1
+2019-03-06,Tahini,2
+2019-04-04,Tahini,1
+2019-04-07,Tahini,1
+2019-04-08,Tahini,1
+2019-04-16,Tahini,3
+2019-04-23,Tahini,1
+2019-05-02,Tahini,2
+2019-05-09,Tahini,1
+2019-05-10,Tahini,1
+2019-05-11,Tahini,1
+2019-05-21,Tahini,6
+2019-05-25,Tahini,1
+2019-05-26,Tahini,1
+2019-05-31,Tahini,1
+2019-06-02,Tahini,1
+2019-06-03,Tahini,1
+2019-06-10,Tahini,1
+2019-06-11,Tahini,1
+2019-06-16,Tahini,1
+2019-06-18,Tahini,1
+2019-06-20,Tahini,2
+2019-06-21,Tahini,1
+2019-06-25,Tahini,1
+2019-07-06,Tahini,1
+2019-07-15,Tahini,1
+2019-07-16,Tahini,1
+2019-08-16,Tahini,1
+2019-08-20,Tahini,1
+2019-09-01,Tahini,1
+2019-09-09,Tahini,1
+2019-09-10,Tahini,1
+2019-09-23,Tahini,1
+2019-09-25,Tahini,1
+2019-09-30,Tahini,1
+2019-10-01,Tahini,1
+2019-10-08,Tahini,1
+2019-10-31,Tahini,1
+2019-11-11,Tahini,1
+2019-11-19,Tahini,1
+2019-12-06,Tahini,2
+2019-12-12,Tahini,8
+2020-01-06,Tahini,1
+2020-01-08,Tahini,1
+2020-01-13,Tahini,1
+2020-01-23,Tahini,1
+2020-01-30,Tahini,2
+2020-02-05,Tahini,1
+2020-02-06,Tahini,1
+2020-02-12,Tahini,1
+2020-02-26,Tahini,1
+2020-03-02,Tahini,1
+2020-03-09,Tahini,2
+2020-03-11,Tahini,1
+2020-03-12,Tahini,1
+2020-03-13,Tahini,1
+2020-03-16,Tahini,2
+2020-03-17,Tahini,2
+2020-03-18,Tahini,1
+2020-03-19,Tahini,2
+2020-03-21,Tahini,1
+2020-03-23,Tahini,7
+2020-03-24,Tahini,1
+2020-03-25,Tahini,3
+2020-03-26,Tahini,1
+2020-03-27,Tahini,1
+2020-04-06,Tahini,2
+2020-04-09,Tahini,8
+2020-04-14,Tahini,2
+2020-04-15,Tahini,3
+2020-04-20,Tahini,4
+2020-04-23,Tahini,2
+2020-04-27,Tahini,1
+2020-04-28,Tahini,1
+2020-04-30,Tahini,4
+2020-05-02,Tahini,1
+2020-05-04,Tahini,4
+2020-05-05,Tahini,1
+2020-05-06,Tahini,1
+2020-05-08,Tahini,3
+2020-05-11,Tahini,1
+2020-05-13,Tahini,1
+2020-05-18,Tahini,3
+2020-05-19,Tahini,2
+2020-05-20,Tahini,1
+2020-05-21,Tahini,1
+2020-05-23,Tahini,1
+2020-05-26,Tahini,1
+2020-05-27,Tahini,1
+2020-05-28,Tahini,1
+2020-06-01,Tahini,2
+2020-06-04,Tahini,2
+2020-06-09,Tahini,2
+2020-06-29,Tahini,1
+2020-07-01,Tahini,1
+2020-10-13,Tahini,1
+2021-02-02,Tahini,1
+2021-02-03,Tahini,3
+2021-02-06,Tahini,2
+2021-02-08,Tahini,1
+2021-02-12,Tahini,2
+2021-02-17,Tahini,1
+2021-02-19,Tahini,2
+2021-02-22,Tahini,1
+2021-02-24,Tahini,1
+2021-02-26,Tahini,1
+2021-02-28,Tahini,2
+2021-03-02,Tahini,1
+2021-03-05,Tahini,1
+2021-03-09,Tahini,1
+2021-03-11,Tahini,2
+2021-03-15,Tahini,2
+2021-03-16,Tahini,2
+2021-03-19,Tahini,1
+2021-03-20,Tahini,1
+2021-03-22,Tahini,1
+2021-03-24,Tahini,1
+2021-03-30,Tahini,3
+2021-03-31,Tahini,1
+2021-04-05,Tahini,4
+2021-04-06,Tahini,1
+2021-04-08,Tahini,2
+2021-04-09,Tahini,1
+2021-04-12,Tahini,2
+2021-04-14,Tahini,1
+2021-04-19,Tahini,1
+2021-04-21,Tahini,2
+2021-04-30,Tahini,1
+2021-05-11,Tahini,1
+2021-07-16,Tahini,3
+2021-07-22,Tahini,1
+2021-07-24,Tahini,1
+2021-08-02,Tahini,2
+2021-08-03,Tahini,1
+2021-08-05,Tahini,1
+2021-08-06,Tahini,1
+2021-08-12,Tahini,4
+2021-08-20,Tahini,1
+2021-08-27,Tahini,1
+2021-09-01,Tahini,3
+2021-09-07,Tahini,1
+2021-09-14,Tahini,1
+2021-09-24,Tahini,3
+2021-09-25,Tahini,2
+2021-09-28,Tahini,1
+2021-10-05,Tahini,1
+2021-10-09,Tahini,1
+2021-10-14,Tahini,2
+2021-10-15,Tahini,1
+2021-10-18,Tahini,1
+2021-10-21,Tahini,1
+2021-10-25,Tahini,1
+2021-10-28,Tahini,2
+2021-10-31,Tahini,3
+2021-11-01,Tahini,3
+2021-11-05,Tahini,1
+2021-11-11,Tahini,5
+2021-11-13,Tahini,8
+2021-11-15,Tahini,1
+2021-11-18,Tahini,3
+2021-11-22,Tahini,1
+2021-11-23,Tahini,1
+2021-11-29,Tahini,1
+2021-12-02,Tahini,1
+2021-12-07,Tahini,2
+2021-12-12,Tahini,1
+2021-12-14,Tahini,1
+2021-12-16,Tahini,1
+2021-12-17,Tahini,3
+2021-12-19,Tahini,1
+2021-12-20,Tahini,1
+2021-12-25,Tahini,1
+2022-01-03,Tahini,2
+2022-01-05,Tahini,2
+2022-01-06,Tahini,2
+2022-01-07,Tahini,2
+2022-01-14,Tahini,6
+2022-01-15,Tahini,3
+2022-01-16,Tahini,6
+2022-01-18,Tahini,3
+2022-01-19,Tahini,2
+2022-01-21,Tahini,6
+2022-01-24,Tahini,6
+2022-01-25,Tahini,4
+2022-01-27,Tahini,4
+2022-01-28,Tahini,2
+2022-02-02,Tahini,4
+2022-02-03,Tahini,3
+2022-02-04,Tahini,2
+2022-02-07,Tahini,2
+2022-02-10,Tahini,4
+2022-02-11,Tahini,2
+2022-02-12,Tahini,2
+2022-02-15,Tahini,2
+2022-02-17,Tahini,8
+2022-02-18,Tahini,4
+2022-02-20,Tahini,2
+2022-02-22,Tahini,2
+2022-02-23,Tahini,2
+2022-02-25,Tahini,6
+2022-03-01,Tahini,4
+2022-03-02,Tahini,2
+2022-03-05,Tahini,2
+2022-03-07,Tahini,1
+2022-03-12,Tahini,1
+2022-03-14,Tahini,1
+2022-03-17,Tahini,3
+2022-03-21,Tahini,4
+2022-03-27,Tahini,1
+2022-03-28,Tahini,2
+2022-03-30,Tahini,2
+2022-04-12,Tahini,1
+2022-04-13,Tahini,2
+2022-04-15,Tahini,1
+2022-04-17,Tahini,2
+2022-04-18,Tahini,2
+2022-04-21,Tahini,1
+2022-04-25,Tahini,2
+2022-04-28,Tahini,2
+2022-05-03,Tahini,1
+2022-05-09,Tahini,1
+2022-05-14,Tahini,2
+2022-05-16,Tahini,1
+2022-05-17,Tahini,1
+2022-05-19,Tahini,2
+2022-05-23,Achva Tahini - 500g,3
+2022-05-24,Achva Tahini - 500g,1
+2022-05-25,Achva Tahini - 500g,1
+2022-05-27,Achva Tahini - 500g,1
+2022-05-28,Achva Tahini - 500g,1
+2022-05-30,Achva Tahini - 500g,2
+2022-06-03,Achva Tahini - 500g,2
+2022-06-05,Achva Tahini - 500g,1
+2022-06-13,Achva Tahini - 500g,1
+2022-06-16,Achva Tahini - 500g,1
+2022-06-23,Achva Tahini - 500g,1
+2022-06-28,Achva Tahini - 500g,1
+2022-07-04,Achva Tahini - 500g,1
+2022-07-05,Achva Tahini - 500g,1
+2022-07-07,Achva Tahini - 500g,1
+2022-07-09,Achva Tahini - 500g,1
+2022-07-15,Achva Tahini - 500g,1
+2022-07-16,Achva Tahini - 500g,2
+2022-07-18,Achva Tahini - 500g,1
+2022-07-19,Achva Tahini - 500g,1
+2022-07-22,Achva Tahini - 500g,1
+2022-07-23,Achva Tahini - 500g,1
+2022-07-24,Achva Tahini - 500g,1
+2022-07-26,Achva Tahini - 500g,4
+2022-07-29,Achva Tahini - 500g,3
+2022-07-30,Achva Tahini - 500g,1
+2022-08-01,Achva Tahini - 500g,2
+2022-08-08,Achva Sesame Tahini - 500g,2
+2022-08-12,Achva Sesame Tahini - 500g,1
+2022-08-15,Achva Sesame Tahini - 500g,1
+2022-08-16,Achva Sesame Tahini - 500g,3
+2022-08-17,Achva Sesame Tahini - 500g,1
+2022-08-22,Achva Sesame Tahini - 500g,1
+2022-08-26,Achva Sesame Tahini - 500g,2
+2022-08-28,Achva Sesame Tahini - 500g,1
+2022-08-29,Achva Sesame Tahini - 500g,1
+2022-09-01,Achva Sesame Tahini - 500g,1
+2022-09-03,Achva Sesame Tahini - 500g,1
+2022-09-04,Achva Sesame Tahini - 500g,1
+2022-09-05,Achva Sesame Tahini - 500g,1
+2022-09-07,Achva Sesame Tahini - 500g,2
+2022-09-08,Achva Sesame Tahini - 500g,1
+2022-09-12,Achva Sesame Tahini - 500g,2
+2022-09-18,Achva Sesame Tahini - 500g,1
+2022-09-22,Achva Sesame Tahini - 500g,2
+2022-09-24,Achva Sesame Tahini - 500g,1
+2022-09-25,Achva Sesame Tahini - 500g,1
+2022-10-03,Achva Sesame Tahini - 500g,1
+2022-10-04,Achva Sesame Tahini - 500g,1
+2022-10-05,Achva Sesame Tahini - 500g,2
+2022-10-06,Achva Sesame Tahini - 500g,1
+2022-10-10,Achva Sesame Tahini - 500g,1
+2022-10-11,Achva Sesame Tahini - 500g,2
+2022-10-14,Achva Sesame Tahini - 500g,1
+2022-10-17,Achva Sesame Tahini - 500g,1
+2022-10-18,Achva Sesame Tahini - 500g,1
+2022-10-22,Achva Sesame Tahini - 500g,1
+2022-10-27,Achva Sesame Tahini - 500g,2
+2022-10-28,Achva Sesame Tahini - 500g,1
+2022-10-30,Achva Sesame Tahini - 500g,3
+2022-10-31,Achva Sesame Tahini - 500g,3
+2022-11-01,Achva Sesame Tahini - 500g,1
+2022-11-02,Achva Sesame Tahini - 500g,2
+2022-11-04,Achva Sesame Tahini - 500g,1
+2022-11-07,Achva Sesame Tahini - 500g,3
+2022-11-08,Achva Sesame Tahini - 500g,2
+2022-11-14,Achva Sesame Tahini - 500g,2
+2022-11-21,Achva Sesame Tahini - 500g,2
+2022-11-23,Achva Sesame Tahini - 500g,3
+2022-11-24,Achva Sesame Tahini - 500g,1
+2022-11-25,Achva Sesame Tahini - 500g,1
+2022-11-26,Achva Sesame Tahini - 500g,1
+2022-11-30,Achva Sesame Tahini - 500g,1
+2022-12-01,Achva Sesame Tahini - 500g,1
+2022-12-18,Achva Sesame Tahini - 500g,1
+2022-12-21,Achva Sesame Tahini - 500g,1
+2022-12-22,Achva Sesame Tahini - 500g,1
+2022-12-24,Achva Sesame Tahini - 500g,1
+2022-12-25,Achva Sesame Tahini - 500g,1
+2023-01-02,Achva Sesame Tahini - 500g,2
+2023-01-03,Achva Sesame Tahini - 500g,1
+2023-01-04,Achva Sesame Tahini - 500g,1
+2023-01-09,Achva Sesame Tahini - 500g,3
+2023-01-10,Achva Sesame Tahini - 500g,2
+2023-01-11,Achva Sesame Tahini - 500g,1
+2023-01-13,Achva Sesame Tahini - 500g,1
+2023-01-15,Achva Sesame Tahini - 500g,1
+2023-01-17,Achva Sesame Tahini - 500g,2
+2023-01-21,Achva Sesame Tahini - 500g,1
+2023-01-23,Achva Sesame Tahini - 500g,1
+2023-02-02,Achva Sesame Tahini - 500g,2
+2023-02-03,Achva Sesame Tahini - 500g,2
+2023-02-04,Achva Sesame Tahini - 500g,1
+2023-02-05,Achva Sesame Tahini - 500g,1
+2023-02-06,Achva Sesame Tahini - 500g,1
+2023-02-09,Achva Sesame Tahini - 500g,1
+2023-02-10,Achva Sesame Tahini - 500g,1
+2023-02-14,Achva Sesame Tahini - 500g,1
+2023-02-17,Achva Sesame Tahini - 500g,2
+2023-02-19,Achva Sesame Tahini - 500g,1
+2023-02-21,Achva Sesame Tahini - 500g,1
+2023-02-23,Achva Sesame Tahini - 500g,1
+2023-02-24,Achva Sesame Tahini - 500g,3
+2023-02-25,Achva Sesame Tahini - 500g,1
+2023-02-27,Achva Sesame Tahini - 500g,2
+2023-02-28,Achva Sesame Tahini - 500g,1
+2023-03-01,Achva Sesame Tahini - 500g,1
+2023-03-03,Achva Sesame Tahini - 500g,1
+2023-03-06,Achva Sesame Tahini - 500g,2
+2023-03-07,Achva Sesame Tahini - 500g,1
+2023-03-12,Achva Sesame Tahini - 500g,2
+2023-03-14,Achva Sesame Tahini - 500g,1
+2023-03-15,Achva Sesame Tahini - 500g,1
+2023-03-16,Achva Sesame Tahini - 500g,2
+2023-03-17,Achva Sesame Tahini - 500g,1
+2023-03-22,Achva Sesame Tahini - 500g,1
+2023-03-23,Achva Sesame Tahini - 500g,1
+2023-03-24,Achva Sesame Tahini - 500g,1
+2023-03-25,Achva Sesame Tahini - 500g,2
+2023-03-26,Achva Sesame Tahini - 500g,1
+2023-03-29,Achva Sesame Tahini - 500g,1
+2023-03-30,Achva Sesame Tahini - 500g,1
+2023-03-31,Achva Sesame Tahini - 500g,1
+2023-04-01,Achva Sesame Tahini - 500g,1
+2023-04-03,Achva Sesame Tahini - 500g,1
+2023-04-04,Achva Sesame Tahini - 500g,3
+2023-04-06,Achva Sesame Tahini - 500g,1
+2023-04-07,Achva Sesame Tahini - 500g,1
+2023-04-09,Achva Sesame Tahini - 500g,1
+2023-04-17,Achva Sesame Tahini - 500g,1
+2023-04-19,Achva Sesame Tahini - 500g,1
+2023-04-21,Achva Sesame Tahini - 500g,2
+2023-04-22,Achva Sesame Tahini - 500g,1
+2023-04-24,Achva Sesame Tahini - 500g,1
+2023-04-25,Achva Sesame Tahini - 500g,1
+2023-04-26,Achva Sesame Tahini - 500g,1
+2023-04-27,Achva Sesame Tahini - 500g,1
+2023-04-28,Achva Sesame Tahini - 500g,1
+2023-05-01,Achva Sesame Tahini - 500g,2
+2023-05-02,Achva Sesame Tahini - 500g,1
+2023-05-03,Achva Sesame Tahini - 500g,2
+2023-05-04,Achva Sesame Tahini - 500g,2
+2023-05-05,Achva Sesame Tahini - 500g,2
+2023-05-07,Achva Sesame Tahini - 500g,1
+2023-06-13,Achva Sesame Tahini - 500g,1
+2023-06-15,Achva Sesame Tahini - 500g,2
+2023-06-16,Achva Sesame Tahini - 500g,4
+2023-06-18,Achva Sesame Tahini - 500g,3
+2023-06-19,Achva Sesame Tahini - 500g,2
+2023-06-23,Achva Sesame Tahini - 500g,1
+2023-06-25,Achva Sesame Tahini - 500g,2
+2023-06-26,Achva Sesame Tahini - 500g,2
+2023-06-28,Achva Sesame Tahini - 500g,1
+2023-06-30,Achva Sesame Tahini - 500g,1
+2023-07-03,Achva Sesame Tahini - 500g,2
+2023-07-10,Achva Sesame Tahini - 500g,3
+2023-07-12,Achva Sesame Tahini - 500g,1
+2023-07-18,Achva Sesame Tahini - 500g,2
+2023-07-19,Achva Sesame Tahini - 500g,3
+2023-07-20,Achva Sesame Tahini - 500g,2
+2023-07-24,Achva Sesame Tahini - 500g,4
+2023-07-27,Achva Sesame Tahini - 500g,1
+2023-07-28,Achva Sesame Tahini - 500g,1
+2023-07-31,Achva Sesame Tahini - 500g,3
+2023-08-01,Achva Sesame Tahini - 500g,1
+2023-08-02,Achva Sesame Tahini - 500g,1
+2023-08-05,Achva Sesame Tahini - 500g,1
+2023-08-07,Achva Sesame Tahini - 500g,1
+2023-08-09,Achva Sesame Tahini - 500g,2
+2023-08-10,Achva Sesame Tahini - 500g,1
+2023-08-11,Achva Sesame Tahini - 500g,2
+2023-08-13,Achva Sesame Tahini - 500g,2
+2023-08-14,Achva Sesame Tahini - 500g,2
+2023-08-16,Achva Sesame Tahini - 500g,1
+2023-08-17,Achva Sesame Tahini - 500g,1
+2023-08-18,Achva Sesame Tahini - 500g,1
+2023-08-20,Achva Sesame Tahini - 500g,1
+2023-08-21,Achva Sesame Tahini - 500g,1
+2023-08-22,Achva Sesame Tahini - 500g,2
+2023-08-23,Achva Sesame Tahini - 500g,2
+2023-08-24,Achva Sesame Tahini - 500g,1
+2023-08-27,Achva Sesame Tahini - 500g,2
+2023-08-28,Achva Sesame Tahini - 500g,1
+2023-08-29,Achva Sesame Tahini - 500g,1
+2023-09-01,Achva Sesame Tahini - 500g,1
+2023-09-02,Achva Sesame Tahini - 500g,3
+2023-09-04,Achva Sesame Tahini - 500g,6
+2023-09-06,Achva Sesame Tahini - 500g,1
+2023-09-07,Achva Sesame Tahini - 500g,1
+2023-09-08,Achva Sesame Tahini - 500g,1
+2023-09-09,Achva Sesame Tahini - 500g,1
+2023-09-10,Achva Sesame Tahini - 500g,1
+2023-09-11,Achva Sesame Tahini - 500g,1
+2023-09-12,Achva Sesame Tahini - 500g,2
+2023-09-14,Achva Sesame Tahini - 500g,1
+2023-09-15,Achva Sesame Tahini - 500g,2
+2023-09-16,Achva Sesame Tahini - 500g,1
+2023-09-18,Achva Sesame Tahini - 500g,2
+2023-09-19,Achva Sesame Tahini - 500g,1
+2023-09-21,Achva Sesame Tahini - 500g,4
+2023-09-23,Achva Sesame Tahini - 500g,3
+2023-09-25,Achva Sesame Tahini - 500g,6
+2023-09-26,Achva Sesame Tahini - 500g,1
+2023-09-27,Achva Sesame Tahini - 500g,1
+2023-09-28,Achva Sesame Tahini - 500g,1
+2023-09-29,Achva Sesame Tahini - 500g,1
+2023-10-02,Achva Sesame Tahini - 500g,1
+2023-10-03,Achva Sesame Tahini - 500g,2
+2023-10-04,Achva Sesame Tahini - 500g,3
+2023-10-05,Achva Sesame Tahini - 500g,2
+2023-10-06,Achva Sesame Tahini - 500g,1
+2023-10-09,Achva Sesame Tahini - 500g,1
+2023-10-10,Achva Sesame Tahini - 500g,2
+2023-10-11,Achva Sesame Tahini - 500g,3
+2023-10-12,Achva Sesame Tahini - 500g,1
+2023-10-14,Achva Sesame Tahini - 500g,1
+2023-10-15,Achva Sesame Tahini - 500g,2
+2023-10-16,Achva Sesame Tahini - 500g,1
+2023-10-17,Achva Sesame Tahini - 500g,2
+2023-10-18,Achva Sesame Tahini - 500g,1
+2023-10-19,Achva Sesame Tahini - 500g,2
+2023-10-23,Achva Sesame Tahini - 500g,3
+2023-10-24,Achva Sesame Tahini - 500g,1
+2023-10-27,Achva Sesame Tahini - 500g,2
+2023-10-28,Achva Sesame Tahini - 500g,2
+2023-10-30,Achva Sesame Tahini - 500g,2
+2023-10-31,Achva Sesame Tahini - 500g,2
+2023-11-01,Achva Sesame Tahini - 500g,1
+2023-11-03,Achva Sesame Tahini - 500g,2
+2023-11-04,Achva Sesame Tahini - 500g,3
+2023-11-05,Achva Sesame Tahini - 500g,2
+2023-11-06,Achva Sesame Tahini - 500g,2
+2023-11-07,Achva Sesame Tahini - 500g,1
+2023-11-09,Achva Sesame Tahini - 500g,1
+2023-11-10,Achva Sesame Tahini - 500g,1
+2023-11-13,Achva Sesame Tahini - 500g,2
+2023-11-14,Achva Sesame Tahini - 500g,2
+2023-11-15,Achva Sesame Tahini - 500g,3
+2023-11-17,Achva Sesame Tahini - 500g,3
+2023-11-21,Achva Sesame Tahini - 500g,1
+2023-11-22,Achva Sesame Tahini - 500g,2
+2023-11-24,Achva Sesame Tahini - 500g,1
+2023-11-26,Achva Sesame Tahini - 500g,2
+2023-11-28,Achva Sesame Tahini - 500g,2
+2023-11-29,Achva Sesame Tahini - 500g,3
+2023-11-30,Achva Sesame Tahini - 500g,2
+2023-12-01,Achva Sesame Tahini - 500g,1
+2023-12-02,Achva Sesame Tahini - 500g,3
+2023-12-03,Achva Sesame Tahini - 500g,1
+2023-12-04,Achva Sesame Tahini - 500g,1
+2023-12-07,Achva Sesame Tahini - 500g,1
+2023-12-08,Achva Sesame Tahini - 500g,2
+2023-12-09,Achva Sesame Tahini - 500g,1
+2023-12-10,Achva Sesame Tahini - 500g,1
+2023-12-11,Achva Sesame Tahini - 500g,3
+2023-12-12,Achva Sesame Tahini - 500g,2
+2023-12-13,Achva Sesame Tahini - 500g,3
+2023-12-15,Achva Sesame Tahini - 500g,2
+2023-12-16,Achva Sesame Tahini - 500g,1
+2023-12-18,Achva Sesame Tahini - 500g,1
+2023-12-19,Achva Sesame Tahini - 500g,3
+2023-12-21,Achva Sesame Tahini - 500g,1
+2023-12-22,Achva Sesame Tahini - 500g,1

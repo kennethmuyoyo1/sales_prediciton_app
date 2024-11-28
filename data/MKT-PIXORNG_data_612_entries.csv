@@ -1,0 +1,613 @@
+Date,Product Name,Quantity
+2022-03-02,Pixie Oranges - 1Kg,1
+2022-03-03,Pixie Oranges - 1Kg,4
+2022-03-06,Pixie Oranges - 1Kg,1
+2022-03-07,Pixie Oranges - 1Kg,6
+2022-03-08,Pixie Oranges - 1Kg,1
+2022-03-09,Pixie Oranges - 1Kg,2
+2022-03-10,Pixie Oranges - 1Kg,5
+2022-03-11,Pixie Oranges - 1Kg,5
+2022-03-12,Pixie Oranges - 1Kg,13
+2022-03-13,Pixie Oranges - 1Kg,5
+2022-03-14,Pixie Oranges - 1Kg,3
+2022-03-15,Pixie Oranges - 1Kg,10
+2022-03-16,Pixie Oranges - 1Kg,3
+2022-03-17,Pixie Oranges - 1Kg,8
+2022-03-18,Pixie Oranges - 1Kg,8
+2022-03-19,Pixie Oranges - 1Kg,1
+2022-03-20,Pixie Oranges - 1Kg,1
+2022-03-21,Pixie Oranges - 1Kg,10
+2022-03-22,Pixie Oranges - 1Kg,4
+2022-03-23,Pixie Oranges - 1Kg,11
+2022-03-24,Pixie Oranges - 1Kg,13
+2022-03-25,Pixie Oranges - 1Kg,8
+2022-03-26,Pixie Oranges - 1Kg,3
+2022-03-27,Pixie Oranges - 1Kg,2
+2022-03-28,Pixie Oranges - 1Kg,11
+2022-03-29,Pixie Oranges - 1Kg,4
+2022-03-30,Pixie Oranges - 1Kg,6
+2022-03-31,Pixie Oranges - 1Kg,2
+2022-04-01,Pixie Oranges - 1Kg,2
+2022-04-02,Pixie Oranges - 1Kg,4
+2022-04-03,Pixie Oranges - 1Kg,1
+2022-04-04,Pixie Oranges - 1Kg,5
+2022-04-05,Pixie Oranges - 1Kg,9
+2022-04-06,Pixie Oranges - 1Kg,5
+2022-04-07,Pixie Oranges - 1Kg,11
+2022-04-08,Pixie Oranges - 1Kg,4
+2022-04-09,Pixie Oranges - 1Kg,2
+2022-04-10,Pixie Oranges - 1Kg,3
+2022-04-11,Pixie Oranges - 1Kg,14
+2022-04-12,Pixie Oranges - 1Kg,1
+2022-04-13,Pixie Oranges - 1Kg,2
+2022-04-14,Pixie Oranges - 1Kg,4
+2022-04-15,Pixie Oranges - 1Kg,4
+2022-04-16,Pixie Oranges - 1Kg,3
+2022-04-17,Pixie Oranges - 1Kg,6
+2022-04-18,Pixie Oranges - 1Kg,4
+2022-04-19,Pixie Oranges - 1Kg,10
+2022-04-20,Pixie Oranges - 1Kg,7
+2022-04-21,Pixie Oranges - 1Kg,7
+2022-04-22,Pixie Oranges - 1Kg,2
+2022-04-23,Pixie Oranges - 1Kg,5
+2022-04-24,Pixie Oranges - 1Kg,5
+2022-04-25,Pixie Oranges - 1Kg,8
+2022-04-26,Pixie Oranges - 1Kg,8
+2022-04-27,Pixie Oranges - 1Kg,2
+2022-04-28,Pixie Oranges - 1Kg,5
+2022-04-29,Pixie Oranges - 1Kg,7
+2022-05-01,Pixie Oranges - 1Kg,1
+2022-05-02,Pixie Oranges - 1Kg,1
+2022-05-03,Pixie Oranges - 1Kg,4
+2022-05-04,Pixie Oranges - 1Kg,9
+2022-05-05,Pixie Oranges - 1Kg,11
+2022-05-06,Pixie Oranges - 1Kg,3
+2022-05-08,Pixie Oranges - 1Kg,1
+2022-05-09,Pixie Oranges - 1Kg,4
+2022-05-10,Pixie Oranges - 1Kg,3
+2022-05-11,Pixie Oranges - 1Kg,7
+2022-05-12,Pixie Oranges - 1Kg,8
+2022-05-13,Pixie Oranges - 1Kg,1
+2022-05-14,Pixie Oranges - 1Kg,1
+2022-05-15,Pixie Oranges - 1Kg,3
+2022-05-16,Pixie Oranges - 1Kg,7
+2022-05-17,Pixie Oranges - 1Kg,6
+2022-05-18,Pixie Oranges - 1Kg,5
+2022-05-19,Pixie Oranges - 1Kg,5
+2022-05-20,Pixie Oranges - 1Kg,2
+2022-05-21,Pixie Oranges - 1Kg,1
+2022-05-22,Pixie Oranges - 1Kg,2
+2022-05-23,Pixie Oranges - 1Kg,14
+2022-05-24,Pixie Oranges - 1Kg,3
+2022-05-25,Pixie Oranges - 1Kg,5
+2022-05-26,Pixie Oranges - 1Kg,1
+2022-05-27,Pixie Oranges - 1Kg,1
+2022-05-28,Pixie Oranges - 1Kg,7
+2022-05-29,Pixie Oranges - 1Kg,7
+2022-05-30,Pixie Oranges - 1Kg,4
+2022-05-31,Pixie Oranges - 1Kg,4
+2022-06-01,Pixie Oranges - 1Kg,6
+2022-06-02,Pixie Oranges - 1Kg,2
+2022-06-03,Pixie Oranges - 1Kg,2
+2022-06-04,Pixie Oranges - 1Kg,1
+2022-06-05,Pixie Oranges - 1Kg,2
+2022-06-07,Pixie Oranges - 1Kg,5
+2022-06-08,Pixie Oranges - 1Kg,1
+2022-06-09,Pixie Oranges - 1Kg,5
+2022-06-10,Pixie Oranges - 1Kg,5
+2022-06-13,Pixie Oranges - 1Kg,4
+2022-06-14,Pixie Oranges - 1Kg,1
+2022-06-15,Pixie Oranges - 1Kg,3
+2022-06-18,Pixie Oranges - 1Kg,1
+2022-06-19,Pixie Oranges - 1Kg,1
+2022-06-20,Pixie Oranges - 1Kg,1
+2022-06-21,Pixie Oranges - 1Kg,2
+2022-06-22,Pixie Oranges - 1Kg,1
+2022-06-23,Pixie Oranges - 1Kg,1
+2022-06-27,Pixie Oranges - 1Kg,6
+2022-06-28,Pixie Oranges - 1Kg,3
+2022-06-29,Pixie Oranges - 1Kg,3
+2022-06-30,Pixie Oranges - 1Kg,2
+2022-07-01,Pixie Oranges - 1Kg,3
+2022-07-02,Pixie Oranges - 1Kg,1
+2022-07-04,Pixie Oranges - 1Kg,2
+2022-07-05,Pixie Oranges - 1Kg,1
+2022-07-06,Pixie Oranges - 1Kg,6
+2022-07-07,Pixie Oranges - 1Kg,1
+2022-07-11,Pixie Oranges - 1Kg,2
+2022-07-17,Pixie Oranges - 1Kg,2
+2022-07-23,Pixie Oranges - 1Kg,3
+2022-07-24,Pixie Oranges - 1Kg,1
+2022-07-25,Pixie Oranges - 1Kg,4
+2022-07-27,Pixie Oranges - 1Kg,5
+2022-07-28,Pixie Oranges - 1Kg,4
+2022-07-30,Pixie Oranges - 1Kg,4
+2022-07-31,Pixie Oranges - 1Kg,7
+2022-08-01,Pixie Oranges - 1Kg,11
+2022-08-02,Pixie Oranges - 1Kg,3
+2022-08-03,Pixie Oranges - 1Kg,3
+2022-08-04,Pixie Oranges - 1Kg,5
+2022-08-05,Pixie Oranges - 1Kg,3
+2022-08-06,Pixie Oranges - 1Kg,7
+2022-08-07,Pixie Oranges - 1Kg,1
+2022-08-08,Pixie Oranges - 1Kg,3
+2022-08-10,Pixie Oranges - 1Kg,4
+2022-08-11,Pixie Oranges - 1Kg,5
+2022-08-12,Pixie Oranges - 1Kg,1
+2022-08-13,Pixie Oranges - 1Kg,5
+2022-08-14,Pixie Oranges - 1Kg,7
+2022-08-15,Pixie Oranges - 1Kg,6
+2022-08-16,Pixie Oranges - 1Kg,5
+2022-08-17,Pixie Oranges - 1Kg,1
+2022-08-18,Pixie Oranges - 1Kg,2
+2022-08-19,Pixie Oranges - 1Kg,4
+2022-08-20,Pixie Oranges - 1Kg,2
+2022-08-21,Pixie Oranges - 1Kg,1
+2022-08-22,Pixie Oranges - 1Kg,1
+2022-08-23,Pixie Oranges - 1Kg,7
+2022-08-24,Pixie Oranges - 1Kg,6
+2022-08-25,Pixie Oranges - 1Kg,7
+2022-08-26,Pixie Oranges - 1Kg,2
+2022-08-27,Pixie Oranges - 1Kg,2
+2022-08-28,Pixie Oranges - 1Kg,3
+2022-08-29,Pixie Oranges - 1Kg,12
+2022-08-30,Pixie Oranges - 1Kg,9
+2022-08-31,Pixie Oranges - 1Kg,8
+2022-09-01,Pixie Oranges - 1Kg,5
+2022-09-02,Pixie Oranges - 1Kg,9
+2022-09-03,Pixie Oranges - 1Kg,4
+2022-09-05,Pixie Oranges - 1Kg,15
+2022-09-06,Pixie Oranges - 1Kg,8
+2022-09-07,Pixie Oranges - 1Kg,8
+2022-09-08,Pixie Oranges - 1Kg,8
+2022-09-09,Pixie Oranges - 1Kg,4
+2022-09-11,Pixie Oranges - 1Kg,5
+2022-09-12,Pixie Oranges - 1Kg,14
+2022-09-13,Pixie Oranges - 1Kg,5
+2022-09-14,Pixie Oranges - 1Kg,2
+2022-09-15,Pixie Oranges - 1Kg,1
+2022-09-16,Pixie Oranges - 1Kg,6
+2022-09-17,Pixie Oranges - 1Kg,4
+2022-09-19,Pixie Oranges - 1Kg,2
+2022-09-20,Pixie Oranges - 1Kg,9
+2022-09-21,Pixie Oranges - 1Kg,6
+2022-09-22,Pixie Oranges - 1Kg,5
+2022-09-23,Pixie Oranges - 1Kg,10
+2022-09-24,Pixie Oranges - 1Kg,4
+2022-09-25,Pixie Oranges - 1Kg,2
+2022-09-26,Pixie Oranges - 1Kg,20
+2022-09-27,Pixie Oranges - 1Kg,12
+2022-09-28,Pixie Oranges - 1Kg,4
+2022-09-29,Pixie Oranges - 1Kg,10
+2022-09-30,Pixie Oranges - 1Kg,7
+2022-10-01,Pixie Oranges - 1Kg,6
+2022-10-02,Pixie Oranges - 1Kg,2
+2022-10-03,Pixie Oranges - 1Kg,14
+2022-10-04,Pixie Oranges - 1Kg,12
+2022-10-05,Pixie Oranges - 1Kg,14
+2022-10-06,Pixie Oranges - 1Kg,11
+2022-10-07,Pixie Oranges - 1Kg,7
+2022-10-08,Pixie Oranges - 1Kg,7
+2022-10-09,Pixie Oranges - 1Kg,3
+2022-10-10,Pixie Oranges - 1Kg,6
+2022-10-11,Pixie Oranges - 1Kg,8
+2022-10-12,Pixie Oranges - 1Kg,18
+2022-10-13,Pixie Oranges - 1Kg,4
+2022-10-14,Pixie Oranges - 1Kg,5
+2022-10-15,Pixie Oranges - 1Kg,4
+2022-10-16,Pixie Oranges - 1Kg,5
+2022-10-17,Pixie Oranges - 1Kg,5
+2023-04-06,Pixie Oranges - 1Kg,9
+2023-04-07,Pixie Oranges - 1Kg,3
+2023-04-08,Pixie Oranges - 1Kg,9
+2023-04-09,Pixie Oranges - 1Kg,1
+2023-04-10,Pixie Oranges - 1Kg,6
+2023-04-11,Pixie Oranges - 1Kg,9
+2023-04-12,Machakos Pixie Oranges - 1Kg,5
+2023-04-13,Machakos Pixie Oranges - 1Kg,7
+2023-04-14,Machakos Pixie Oranges - 1Kg,2
+2023-04-15,Machakos Pixie Oranges - 1Kg,8
+2023-04-16,Machakos Pixie Oranges - 1Kg,10
+2023-04-17,Machakos Pixie Oranges - 1Kg,9
+2023-04-18,Machakos Pixie Oranges - 1Kg,6
+2023-04-19,Machakos Pixie Oranges - 1Kg,7
+2023-04-20,Machakos Pixie Oranges - 1Kg,12
+2023-04-21,Machakos Pixie Oranges - 1Kg,5
+2023-04-22,Machakos Pixie Oranges - 1Kg,8
+2023-04-23,Machakos Pixie Oranges - 1Kg,6
+2023-04-24,Machakos Pixie Oranges - 1Kg,23
+2023-04-25,Machakos Pixie Oranges - 1Kg,10
+2023-04-26,Machakos Pixie Oranges - 1Kg,10
+2023-04-27,Machakos Pixie Oranges - 1Kg,9
+2023-04-28,Machakos Pixie Oranges - 1Kg,13
+2023-04-29,Machakos Pixie Oranges - 1Kg,7
+2023-04-30,Machakos Pixie Oranges - 1Kg,4
+2023-05-01,Machakos Pixie Oranges - 1Kg,15
+2023-05-02,Machakos Pixie Oranges - 1Kg,15
+2023-05-03,Machakos Pixie Oranges - 1Kg,18
+2023-05-04,Machakos Pixie Oranges - 1Kg,2
+2023-05-06,Machakos Pixie Oranges - 1Kg,11
+2023-05-07,Machakos Pixie Oranges - 1Kg,8
+2023-05-08,Machakos Pixie Oranges - 1Kg,8
+2023-05-09,Machakos Pixie Oranges - 1Kg,13
+2023-05-10,Machakos Pixie Oranges - 1Kg,12
+2023-05-11,Machakos Pixie Oranges - 1Kg,20
+2023-05-12,Machakos Pixie Oranges - 1Kg,9
+2023-05-13,Machakos Pixie Oranges - 1Kg,10
+2023-05-14,Machakos Pixie Oranges - 1Kg,3
+2023-05-15,Machakos Pixie Oranges - 1Kg,28
+2023-05-16,Machakos Pixie Oranges - 1Kg,6
+2023-05-17,Machakos Pixie Oranges - 1Kg,20
+2023-05-18,Machakos Pixie Oranges - 1Kg,7
+2023-05-19,Machakos Pixie Oranges - 1Kg,8
+2023-05-20,Machakos Pixie Oranges - 1Kg,9
+2023-05-21,Machakos Pixie Oranges - 1Kg,16
+2023-05-22,Machakos Pixie Oranges - 1Kg,32
+2023-05-23,Machakos Pixie Oranges - 1Kg,19
+2023-05-24,Machakos Pixie Oranges - 1Kg,3
+2023-05-25,Machakos Pixie Oranges - 1Kg,10
+2023-05-26,Machakos Pixie Oranges - 1Kg,22
+2023-05-27,Machakos Pixie Oranges - 1Kg,15
+2023-05-28,Machakos Pixie Oranges - 1Kg,17
+2023-05-29,Machakos Pixie Oranges - 1Kg,7
+2023-05-30,Machakos Pixie Oranges - 1Kg,8
+2023-05-31,Machakos Pixie Oranges - 1Kg,15
+2023-06-01,Machakos Pixie Oranges - 1Kg,3
+2023-06-02,Machakos Pixie Oranges - 1Kg,17
+2023-06-03,Machakos Pixie Oranges - 1Kg,13
+2023-06-04,Machakos Pixie Oranges - 1Kg,6
+2023-06-05,Machakos Pixie Oranges - 1Kg,10
+2023-06-06,Machakos Pixie Oranges - 1Kg,18
+2023-06-07,Machakos Pixie Oranges - 1Kg,15
+2023-06-08,Machakos Pixie Oranges - 1Kg,22
+2023-06-09,Machakos Pixie Oranges - 1Kg,2
+2023-06-10,Machakos Pixie Oranges - 1Kg,3
+2023-06-11,Machakos Pixie Oranges - 1Kg,3
+2023-06-12,Machakos Pixie Oranges - 1Kg,13
+2023-06-13,Machakos Pixie Oranges - 1Kg,35
+2023-06-14,Machakos Pixie Oranges - 1Kg,4
+2023-06-15,Machakos Pixie Oranges - 1Kg,11
+2023-06-16,Machakos Pixie Oranges - 1Kg,7
+2023-06-17,Machakos Pixie Oranges - 1Kg,7
+2023-06-18,Machakos Pixie Oranges - 1Kg,7
+2023-06-19,Machakos Pixie Oranges - 1Kg,31
+2023-06-20,Machakos Pixie Oranges - 1Kg,10
+2023-06-21,Machakos Pixie Oranges - 1Kg,21
+2023-06-22,Machakos Pixie Oranges - 1Kg,6
+2023-06-23,Machakos Pixie Oranges - 1Kg,9
+2023-06-24,Machakos Pixie Oranges - 1Kg,9
+2023-06-25,Machakos Pixie Oranges - 1Kg,4
+2023-06-26,Machakos Pixie Oranges - 1Kg,15
+2023-06-27,Machakos Pixie Oranges - 1Kg,6
+2023-06-28,Machakos Pixie Oranges - 1Kg,6
+2023-06-29,Machakos Pixie Oranges - 1Kg,5
+2023-06-30,Machakos Pixie Oranges - 1Kg,22
+2023-07-01,Machakos Pixie Oranges - 1Kg,7
+2023-07-02,Machakos Pixie Oranges - 1Kg,7
+2023-07-03,Machakos Pixie Oranges - 1Kg,7
+2023-07-04,Machakos Pixie Oranges - 1Kg,5
+2023-07-05,Machakos Pixie Oranges - 1Kg,15
+2023-07-06,Machakos Pixie Oranges - 500g,2
+2023-07-06,Machakos Pixie Oranges - 1Kg,3
+2023-07-07,Machakos Pixie Oranges - 500g,7
+2023-07-08,Machakos Pixie Oranges - 500g,14
+2023-07-09,Machakos Pixie Oranges - 500g,6
+2023-07-10,Machakos Pixie Oranges - 500g,8
+2023-07-11,Machakos Pixie Oranges - 500g,13
+2023-07-12,Machakos Pixie Oranges - 500g,7
+2023-07-13,Machakos Pixie Oranges - 500g,3
+2023-07-14,Machakos Pixie Oranges - 500g,17
+2023-07-15,Machakos Pixie Oranges - 500g,7
+2023-07-16,Machakos Pixie Oranges - 500g,2
+2023-07-17,Machakos Pixie Oranges - 500g,7
+2023-07-18,Machakos Pixie Oranges - 500g,7
+2023-07-19,Machakos Pixie Oranges - 500g,9
+2023-07-20,Machakos Pixie Oranges - 500g,8
+2023-07-21,Machakos Pixie Oranges - 500g,11
+2023-07-22,Machakos Pixie Oranges - 500g,12
+2023-07-23,Machakos Pixie Oranges - 500g,4
+2023-07-24,Machakos Pixie Oranges - 500g,13
+2023-07-25,Machakos Pixie Oranges - 500g,22
+2023-07-26,Machakos Pixie Oranges - 500g,6
+2023-07-27,Machakos Pixie Oranges - 500g,11
+2023-07-28,Machakos Pixie Oranges - 500g,9
+2023-07-29,Machakos Pixie Oranges - 500g,2
+2023-07-31,Machakos Pixie Oranges - 500g,7
+2023-08-01,Machakos Pixie Oranges - 500g,22
+2023-08-02,Machakos Pixie Oranges - 500g,12
+2023-08-03,Machakos Pixie Oranges - 500g,11
+2023-08-04,Machakos Pixie Oranges - 500g,10
+2023-08-05,Machakos Pixie Oranges - 500g,12
+2023-08-06,Machakos Pixie Oranges - 500g,3
+2023-08-07,Machakos Pixie Oranges - 500g,8
+2023-08-08,Machakos Pixie Oranges - 500g,3
+2023-08-09,Machakos Pixie Oranges - 500g,9
+2023-08-10,Machakos Pixie Oranges - 500g,14
+2023-08-11,Machakos Pixie Oranges - 500g,8
+2023-08-12,Machakos Pixie Oranges - 500g,12
+2023-08-14,Machakos Pixie Oranges - 500g,10
+2023-08-15,Machakos Pixie Oranges - 500g,7
+2023-08-16,Machakos Pixie Oranges - 500g,8
+2023-08-17,Machakos Pixie Oranges - 500g,8
+2023-08-18,Machakos Pixie Oranges - 500g,14
+2023-08-19,Machakos Pixie Oranges - 500g,10
+2023-08-20,Machakos Pixie Oranges - 500g,16
+2023-08-21,Machakos Pixie Oranges - 500g,29
+2023-08-22,Machakos Pixie Oranges - 500g,11
+2023-08-23,Machakos Pixie Oranges - 500g,12
+2023-08-24,Machakos Pixie Oranges - 500g,27
+2023-08-25,Machakos Pixie Oranges - 500g,8
+2023-08-26,Machakos Pixie Oranges - 500g,18
+2023-08-27,Machakos Pixie Oranges - 500g,8
+2023-08-28,Machakos Pixie Oranges - 500g,16
+2023-08-29,Machakos Pixie Oranges - 500g,2
+2023-08-30,Machakos Pixie Oranges - 500g,6
+2023-08-31,Machakos Pixie Oranges - 500g,27
+2023-09-01,Machakos Pixie Oranges - 500g,7
+2023-09-02,Machakos Pixie Oranges - 500g,9
+2023-09-03,Machakos Pixie Oranges - 500g,2
+2023-09-04,Machakos Pixie Oranges - 500g,13
+2023-09-05,Machakos Pixie Oranges - 500g,12
+2023-09-06,Machakos Pixie Oranges - 500g,5
+2023-09-07,Machakos Pixie Oranges - 500g,19
+2023-09-08,Machakos Pixie Oranges - 500g,13
+2023-09-09,Machakos Pixie Oranges - 500g,10
+2023-09-10,Machakos Pixie Oranges - 500g,7
+2023-09-11,Machakos Pixie Oranges - 500g,25
+2023-09-12,Machakos Pixie Oranges - 500g,12
+2023-09-13,Machakos Pixie Oranges - 500g,21
+2023-09-14,Machakos Pixie Oranges - 500g,12
+2023-09-15,Machakos Pixie Oranges - 500g,19
+2023-09-16,Machakos Pixie Oranges - 500g,32
+2023-09-17,Machakos Pixie Oranges - 500g,17
+2023-09-18,Machakos Pixie Oranges - 500g,36
+2023-09-19,Machakos Pixie Oranges - 500g,13
+2023-09-20,Machakos Pixie Oranges - 500g,12
+2023-09-21,Machakos Pixie Oranges - 500g,5
+2023-09-22,Machakos Pixie Oranges - 500g,21
+2023-09-23,Machakos Pixie Oranges - 500g,20
+2023-09-24,Machakos Pixie Oranges - 500g,19
+2023-09-25,Machakos Pixie Oranges - 500g,19
+2023-09-29,Machakos Pixie Oranges - 500g,1
+2023-11-29,Machakos Pixie Oranges - 500g,11
+2023-11-30,Machakos Pixie Oranges - 500g,45
+2023-12-01,Machakos Pixie Oranges - 500g,18
+2023-12-02,Machakos Pixie Oranges - 500g,7
+2023-12-03,Machakos Pixie Oranges - 500g,2
+2023-12-04,Machakos Pixie Oranges - 500g,29
+2023-12-05,Machakos Pixie Oranges - 500g,38
+2023-12-06,Machakos Pixie Oranges - 500g,23
+2023-12-07,Machakos Pixie Oranges - 500g,20
+2023-12-08,Machakos Pixie Oranges - 500g,14
+2023-12-09,Machakos Pixie Oranges - 500g,15
+2023-12-10,Machakos Pixie Oranges - 500g,4
+2023-12-11,Machakos Pixie Oranges - 500g,18
+2023-12-12,Machakos Pixie Oranges - 500g,6
+2023-12-13,Machakos Pixie Oranges - 500g,20
+2023-12-14,Machakos Pixie Oranges - 500g,4
+2023-12-15,Machakos Pixie Oranges - 500g,1
+2023-12-16,Machakos Pixie Oranges - 500g,5
+2023-12-17,Machakos Pixie Oranges - 500g,5
+2023-12-18,Machakos Pixie Oranges - 500g,14
+2023-12-22,Machakos Pixie Oranges - 500g,2
+2023-12-23,Machakos Pixie Oranges - 500g,4
+2023-12-24,Machakos Pixie Oranges - 500g,6
+2023-12-25,Machakos Pixie Oranges - 500g,7
+2023-12-26,Machakos Pixie Oranges - 500g,7
+2023-12-27,Machakos Pixie Oranges - 500g,11
+2023-12-28,Machakos Pixie Oranges - 500g,12
+2023-12-29,Machakos Pixie Oranges - 500g,10
+2023-12-30,Machakos Pixie Oranges - 500g,11
+2023-12-31,Machakos Pixie Oranges - 500g,7
+2024-01-01,Machakos Pixie Oranges - 500g,13
+2024-01-02,Machakos Pixie Oranges - 500g,25
+2024-01-03,Machakos Pixie Oranges - 500g,9
+2024-01-04,Machakos Pixie Oranges - 500g,36
+2024-01-05,Machakos Pixie Oranges - 500g,13
+2024-01-06,Machakos Pixie Oranges - 500g,7
+2024-01-07,Machakos Pixie Oranges - 500g,24
+2024-01-08,Machakos Pixie Oranges - 500g,18
+2024-01-09,Machakos Pixie Oranges - 500g,23
+2024-01-10,Machakos Pixie Oranges - 500g,11
+2024-01-11,Machakos Pixie Oranges - 500g,9
+2024-01-12,Machakos Pixie Oranges - 500g,10
+2024-01-13,Machakos Pixie Oranges - 500g,17
+2024-01-14,Machakos Pixie Oranges - 500g,17
+2024-01-15,Machakos Pixie Oranges - 500g,11
+2024-01-16,Machakos Pixie Oranges - 500g,19
+2024-01-17,Machakos Pixie Oranges - 500g,10
+2024-01-18,Machakos Pixie Oranges - 500g,3
+2024-01-20,Machakos Pixie Oranges - 500g,17
+2024-01-21,Machakos Pixie Oranges - 500g,10
+2024-01-22,Machakos Pixie Oranges - 500g,11
+2024-01-23,Machakos Pixie Oranges - 500g,46
+2024-01-24,Machakos Pixie Oranges - 500g,11
+2024-01-25,Machakos Pixie Oranges - 500g,6
+2024-01-26,Machakos Pixie Oranges - 500g,9
+2024-01-27,Machakos Pixie Oranges - 500g,12
+2024-01-28,Machakos Pixie Oranges - 500g,10
+2024-01-29,Machakos Pixie Oranges - 500g,36
+2024-01-30,Machakos Pixie Oranges - 500g,4
+2024-01-31,Machakos Pixie Oranges - 500g,6
+2024-02-01,Machakos Pixie Oranges - 500g,56
+2024-02-02,Machakos Pixie Oranges - 500g,13
+2024-02-03,Machakos Pixie Oranges - 500g,30
+2024-02-04,Machakos Pixie Oranges - 500g,5
+2024-02-05,Machakos Pixie Oranges - 500g,36
+2024-02-06,Machakos Pixie Oranges - 500g,31
+2024-02-07,Machakos Pixie Oranges - 500g,12
+2024-02-08,Machakos Pixie Oranges - 500g,13
+2024-02-09,Machakos Pixie Oranges - 500g,12
+2024-02-10,Machakos Pixie Oranges - 500g,20
+2024-02-11,Machakos Pixie Oranges - 500g,11
+2024-02-12,Machakos Pixie Oranges - 500g,9
+2024-02-13,Machakos Pixie Oranges - 500g,9
+2024-02-14,Machakos Pixie Oranges - 500g,15
+2024-02-15,Machakos Pixie Oranges - 500g,12
+2024-02-16,Machakos Pixie Oranges - 500g,19
+2024-02-17,Machakos Pixie Oranges - 500g,7
+2024-02-18,Machakos Pixie Oranges - 500g,3
+2024-02-19,Machakos Pixie Oranges - 500g,13
+2024-02-20,Machakos Pixie Oranges - 500g,26
+2024-02-21,Machakos Pixie Oranges - 500g,53
+2024-02-22,Machakos Pixie Oranges - 500g,18
+2024-02-23,Machakos Pixie Oranges - 500g,17
+2024-02-24,Machakos Pixie Oranges - 500g,12
+2024-02-25,Machakos Pixie Oranges - 500g,5
+2024-02-26,Machakos Pixie Oranges - 500g,16
+2024-02-27,Machakos Pixie Oranges - 500g,24
+2024-02-28,Machakos Pixie Oranges - 500g,7
+2024-02-29,Machakos Pixie Oranges - 500g,16
+2024-03-01,Machakos Pixie Oranges - 500g,6
+2024-03-02,Machakos Pixie Oranges - 500g,22
+2024-03-03,Machakos Pixie Oranges - 500g,15
+2024-03-04,Machakos Pixie Oranges - 500g,23
+2024-03-05,Machakos Pixie Oranges - 500g,22
+2024-03-06,Machakos Pixie Oranges - 500g,15
+2024-03-07,Machakos Pixie Oranges - 500g,6
+2024-03-08,Machakos Pixie Oranges - 500g,17
+2024-03-09,Machakos Pixie Oranges - 500g,15
+2024-03-10,Machakos Pixie Oranges - 500g,5
+2024-03-11,Machakos Pixie Oranges - 500g,28
+2024-03-12,Machakos Pixie Oranges - 500g,15
+2024-03-13,Machakos Pixie Oranges - 500g,26
+2024-03-14,Machakos Pixie Oranges - 500g,14
+2024-03-15,Machakos Pixie Oranges - 500g,25
+2024-03-16,Machakos Pixie Oranges - 500g,12
+2024-03-17,Machakos Pixie Oranges - 500g,22
+2024-03-18,Machakos Pixie Oranges - 500g,27
+2024-03-19,Machakos Pixie Oranges - 500g,25
+2024-03-20,Machakos Pixie Oranges - 500g,13
+2024-03-21,Machakos Pixie Oranges - 500g,43
+2024-03-22,Machakos Pixie Oranges - 500g,19
+2024-03-23,Machakos Pixie Oranges - 500g,12
+2024-03-24,Machakos Pixie Oranges - 500g,23
+2024-03-25,Machakos Pixie Oranges - 500g,20
+2024-03-26,Machakos Pixie Oranges - 500g,34
+2024-03-27,Machakos Pixie Oranges - 500g,14
+2024-03-28,Machakos Pixie Oranges - 500g,21
+2024-03-29,Machakos Pixie Oranges - 500g,30
+2024-03-30,Machakos Pixie Oranges - 500g,11
+2024-03-31,Machakos Pixie Oranges - 500g,6
+2024-04-01,Machakos Pixie Oranges - 500g,4
+2024-04-02,Machakos Pixie Oranges - 500g,16
+2024-04-03,Machakos Pixie Oranges - 500g,26
+2024-04-04,Machakos Pixie Oranges - 500g,45
+2024-04-05,Machakos Pixie Oranges - 500g,19
+2024-04-06,Machakos Pixie Oranges - 500g,15
+2024-04-07,Machakos Pixie Oranges - 500g,13
+2024-04-08,Machakos Pixie Oranges - 500g,11
+2024-04-09,Machakos Pixie Oranges - 500g,28
+2024-04-10,Machakos Pixie Oranges - 500g,11
+2024-04-11,Machakos Pixie Oranges - 500g,45
+2024-04-12,Machakos Pixie Oranges - 500g,36
+2024-04-13,Machakos Pixie Oranges - 500g,28
+2024-04-14,Machakos Pixie Oranges - 500g,22
+2024-04-15,Machakos Pixie Oranges - 500g,29
+2024-04-16,Machakos Pixie Oranges - 500g,17
+2024-04-17,Machakos Pixie Oranges - 500g,31
+2024-04-18,Machakos Pixie Oranges - 500g,17
+2024-04-19,Machakos Pixie Oranges - 500g,13
+2024-04-20,Machakos Pixie Oranges - 500g,7
+2024-04-21,Machakos Pixie Oranges - 500g,11
+2024-04-22,Machakos Pixie Oranges - 500g,30
+2024-04-23,Machakos Pixie Oranges - 500g,36
+2024-04-24,Machakos Pixie Oranges - 500g,10
+2024-04-25,Machakos Pixie Oranges - 500g,8
+2024-04-26,Machakos Pixie Oranges - 500g,31
+2024-04-27,Machakos Pixie Oranges - 500g,20
+2024-04-28,Machakos Pixie Oranges - 500g,25
+2024-04-29,Machakos Pixie Oranges - 500g,43
+2024-04-30,Machakos Pixie Oranges - 500g,15
+2024-05-01,Machakos Pixie Oranges - 500g,35
+2024-05-02,Machakos Pixie Oranges - 500g,16
+2024-05-03,Machakos Pixie Oranges - 500g,37
+2024-05-04,Machakos Pixie Oranges - 500g,17
+2024-05-05,Machakos Pixie Oranges - 500g,8
+2024-05-06,Machakos Pixie Oranges - 500g,19
+2024-05-07,Machakos Pixie Oranges - 500g,33
+2024-05-08,Machakos Pixie Oranges - 500g,19
+2024-05-09,Machakos Pixie Oranges - 500g,25
+2024-05-10,Machakos Pixie Oranges - 500g,30
+2024-05-11,Machakos Pixie Oranges - 500g,29
+2024-05-12,Machakos Pixie Oranges - 500g,3
+2024-05-13,Machakos Pixie Oranges - 500g,42
+2024-05-14,Machakos Pixie Oranges - 500g,36
+2024-05-15,Machakos Pixie Oranges - 500g,22
+2024-05-16,Machakos Pixie Oranges - 500g,9
+2024-05-17,Machakos Pixie Oranges - 500g,17
+2024-05-18,Machakos Pixie Oranges - 500g,13
+2024-05-19,Machakos Pixie Oranges - 500g,21
+2024-05-20,Machakos Pixie Oranges - 500g,27
+2024-05-21,Machakos Pixie Oranges - 500g,21
+2024-05-22,Machakos Pixie Oranges - 500g,17
+2024-05-23,Machakos Pixie Oranges - 500g,31
+2024-05-24,Machakos Pixie Oranges - 500g,35
+2024-05-25,Machakos Pixie Oranges - 500g,6
+2024-05-26,Machakos Pixie Oranges - 500g,11
+2024-05-27,Machakos Pixie Oranges - 500g,18
+2024-05-28,Machakos Pixie Oranges - 500g,31
+2024-05-29,Machakos Pixie Oranges - 500g,6
+2024-05-30,Machakos Pixie Oranges - 500g,22
+2024-05-31,Machakos Pixie Oranges - 500g,17
+2024-06-01,Machakos Pixie Oranges - 500g,15
+2024-06-02,Machakos Pixie Oranges - 500g,7
+2024-06-03,Machakos Pixie Oranges - 500g,20
+2024-06-04,Machakos Pixie Oranges - 500g,24
+2024-06-05,Machakos Pixie Oranges - 500g,11
+2024-06-06,Machakos Pixie Oranges - 500g,12
+2024-06-07,Machakos Pixie Oranges - 500g,33
+2024-06-08,Machakos Pixie Oranges - 500g,3
+2024-06-09,Machakos Pixie Oranges - 500g,10
+2024-06-10,Machakos Pixie Oranges - 500g,29
+2024-06-11,Machakos Pixie Oranges - 500g,23
+2024-06-12,Machakos Pixie Oranges - 500g,13
+2024-06-13,Machakos Pixie Oranges - 500g,3
+2024-06-14,Machakos Pixie Oranges - 500g,28
+2024-06-15,Machakos Pixie Oranges - 500g,5
+2024-06-16,Machakos Pixie Oranges - 500g,5
+2024-06-17,Machakos Pixie Oranges - 500g,17
+2024-06-18,Machakos Pixie Oranges - 500g,25
+2024-06-19,Machakos Pixie Oranges - 500g,13
+2024-06-20,Machakos Pixie Oranges - 500g,2
+2024-06-21,Machakos Pixie Oranges - 500g,6
+2024-06-22,Machakos Pixie Oranges - 500g,31
+2024-06-23,Machakos Pixie Oranges - 500g,6
+2024-06-24,Machakos Pixie Oranges - 500g,21
+2024-06-25,Machakos Pixie Oranges - 500g,3
+2024-06-26,Machakos Pixie Oranges - 500g,15
+2024-06-28,Machakos Pixie Oranges - 500g,19
+2024-06-29,Machakos Pixie Oranges - 500g,12
+2024-06-30,Machakos Pixie Oranges - 500g,3
+2024-07-01,Machakos Pixie Oranges - 500g,17
+2024-07-02,Machakos Pixie Oranges - 500g,9
+2024-07-03,Machakos Pixie Oranges - 500g,19
+2024-07-04,Machakos Pixie Oranges - 500g,27
+2024-07-05,Machakos Pixie Oranges - 500g,34
+2024-07-06,Machakos Pixie Oranges - 500g,3
+2024-07-07,Machakos Pixie Oranges - 500g,2
+2024-07-08,Machakos Pixie Oranges - 500g,5
+2024-07-09,Machakos Pixie Oranges - 500g,4
+2024-07-10,Machakos Pixie Oranges - 500g,1
+2024-07-11,Machakos Pixie Oranges - 500g,15
+2024-07-12,Machakos Pixie Oranges - 500g,9
+2024-07-13,Machakos Pixie Oranges - 500g,6
+2024-07-14,Machakos Pixie Oranges - 500g,18
+2024-07-15,Machakos Pixie Oranges - 500g,11
+2024-07-16,Machakos Pixie Oranges - 500g,6
+2024-07-17,Machakos Pixie Oranges - 500g,4
+2024-07-18,Machakos Pixie Oranges - 500g,16
+2024-07-19,Machakos Pixie Oranges - 500g,6
+2024-07-20,Machakos Pixie Oranges - 500g,5
+2024-07-21,Machakos Pixie Oranges - 500g,2
+2024-07-22,Machakos Pixie Oranges - 500g,10
+2024-07-23,Machakos Pixie Oranges - 500g,30
+2024-07-24,Machakos Pixie Oranges - 500g,19
+2024-07-25,Machakos Pixie Oranges - 500g,7
+2024-07-26,Machakos Pixie Oranges - 500g,11
+2024-07-27,Machakos Pixie Oranges - 500g,8
+2024-07-28,Machakos Pixie Oranges - 500g,6
+2024-07-29,Machakos Pixie Oranges - 500g,18
+2024-07-30,Machakos Pixie Oranges - 500g,8
+2024-07-31,Machakos Pixie Oranges - 500g,26
+2024-08-01,Machakos Pixie Oranges - 500g,11

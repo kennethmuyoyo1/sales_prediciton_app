@@ -1,0 +1,623 @@
+Date,Product Name,Quantity
+2022-01-03,Turkish Apple Pink Lady 1kg,1
+2022-02-03,Turkish Apple Pink Lady 1kg,1
+2022-03-01,Turkish Pink Lady Red Apples 1kg,1
+2022-03-01,Turkish Apple Pink Lady 1kg,1
+2022-03-02,Turkish Pink Lady Red Apples 1kg,1
+2022-03-02,Turkish Apple Pink Lady 1kg,6
+2022-03-05,Turkish Pink Lady Red Apples 1kg,1
+2022-03-06,Turkish Pink Lady Red Apples 1kg,4
+2022-03-07,Turkish Pink Lady Red Apples 1kg,5
+2022-03-08,Turkish Pink Lady Red Apples 1kg,4
+2022-03-09,Turkish Pink Lady Red Apples 1kg,2
+2022-03-10,Turkish Pink Lady Red Apples 1kg,2
+2022-05-24,Turkish Pink Lady Red Apples 1kg,6
+2022-05-25,Turkish Pink Lady Red Apples 1kg,6
+2022-05-26,Turkish Pink Lady Red Apples 1kg,7
+2022-06-03,Turkish Pink Lady Red Apples 1kg,1
+2022-06-04,Turkish Pink Lady Red Apples 1kg,2
+2022-06-05,Turkish Pink Lady Red Apples 1kg,2
+2022-06-06,Turkish Pink Lady Red Apples 1kg,9
+2022-06-07,Turkish Pink Lady Red Apples 1kg,6
+2022-06-08,Turkish Pink Lady Red Apples 1kg,4
+2022-06-09,Turkish Pink Lady Red Apples 1kg,3
+2022-06-13,Turkish Pink Lady Red Apples 1kg,8
+2022-06-14,Turkish Pink Lady Red Apples 1kg,8
+2022-06-15,Turkish Pink Lady Red Apples 1kg,2
+2022-06-17,Turkish Pink Lady Red Apples 1kg,4
+2022-06-18,Turkish Pink Lady Red Apples 1kg,2
+2022-06-19,Turkish Pink Lady Red Apples 1kg,2
+2022-06-20,Turkish Pink Lady Red Apples 1kg,4
+2022-06-21,Turkish Pink Lady Red Apples 1kg,11
+2022-06-22,Turkish Pink Lady Red Apples 1kg,7
+2022-06-23,Turkish Pink Lady Red Apples 1kg,2
+2022-06-24,Turkish Pink Lady Red Apples 1kg,2
+2022-06-25,Turkish Pink Lady Red Apples 1kg,7
+2022-06-26,Turkish Pink Lady Red Apples 1kg,3
+2022-06-27,Turkish Pink Lady Red Apples 1kg,10
+2022-06-28,Turkish Pink Lady Red Apples 1kg,4
+2022-06-29,Turkish Pink Lady Red Apples 1kg,4
+2022-06-30,Turkish Pink Lady Red Apples 1kg,5
+2022-07-01,Turkish Pink Lady Red Apples 1kg,4
+2022-07-02,Turkish Pink Lady Red Apples 1kg,6
+2022-07-03,Turkish Pink Lady Red Apples 1kg,2
+2022-07-04,Turkish Pink Lady Red Apples 1kg,5
+2022-07-05,Turkish Pink Lady Red Apples 1kg,3
+2022-07-06,Turkish Pink Lady Red Apples 1kg,1
+2022-07-07,Turkish Pink Lady Red Apples 1kg,6
+2022-07-08,Turkish Pink Lady Red Apples 1kg,2
+2022-07-09,Turkish Pink Lady Red Apples 1kg,1
+2022-07-10,Turkish Pink Lady Red Apples 1kg,2
+2022-07-11,Turkish Pink Lady Red Apples 1kg,1
+2022-07-12,Turkish Pink Lady Red Apples 1kg,6
+2022-07-15,Turkish Pink Lady Red Apples 1kg,7
+2022-07-16,Turkish Pink Lady Red Apples 1kg,3
+2022-07-18,Turkish Pink Lady Red Apples 1kg,6
+2022-07-19,Turkish Pink Lady Red Apples 1kg,7
+2022-07-20,Turkish Pink Lady Red Apples 1kg,3
+2022-07-21,Turkish Pink Lady Red Apples 1kg,3
+2022-07-22,Turkish Pink Lady Red Apples 1kg,10
+2022-07-23,Turkish Pink Lady Red Apples 1kg,4
+2022-07-24,Turkish Pink Lady Red Apples 1kg,3
+2022-07-25,Turkish Pink Lady Red Apples 1kg,6
+2022-07-26,Turkish Pink Lady Red Apples 1kg,7
+2022-07-27,Turkish Pink Lady Red Apples 1kg,3
+2022-07-28,Turkish Pink Lady Red Apples 1kg,7
+2022-07-29,Turkish Pink Lady Red Apples 1kg,8
+2022-07-30,Turkish Pink Lady Red Apples 1kg,2
+2022-07-31,Turkish Pink Lady Red Apples 1kg,2
+2022-08-01,Turkish Pink Lady Red Apples 1kg,6
+2022-08-02,Turkish Pink Lady Red Apples 1kg,1
+2022-08-03,Turkish Pink Lady Red Apples 1kg,5
+2022-08-04,Turkish Pink Lady Red Apples 1kg,11
+2022-08-05,Turkish Pink Lady Red Apples 1kg,13
+2022-08-06,Turkish Pink Lady Red Apples 1kg,4
+2022-08-07,Turkish Pink Lady Red Apples 1kg,2
+2022-08-08,Turkish Pink Lady Red Apples 1kg,11
+2022-08-09,Turkish Pink Lady Red Apples 1kg,2
+2022-08-10,Turkish Pink Lady Red Apples 1kg,3
+2022-08-11,Turkish Pink Lady Red Apples 1kg,7
+2022-08-15,Turkish Pink Lady Red Apples 1kg,9
+2022-08-16,Turkish Pink Lady Red Apples 1kg,6
+2022-08-17,Turkish Pink Lady Red Apples 1kg,4
+2022-08-19,Turkish Pink Lady Red Apples 1kg,6
+2022-08-20,Turkish Pink Lady Red Apples 1kg,1
+2022-08-22,Turkish Pink Lady Red Apples 1kg,10
+2022-08-23,Turkish Pink Lady Red Apples 1kg,10
+2022-08-24,Turkish Pink Lady Red Apples 1kg,1
+2022-08-25,Turkish Pink Lady Red Apples 1kg,5
+2022-08-26,Turkish Pink Lady Red Apples 1kg,7
+2022-08-27,Turkish Pink Lady Red Apples 1kg,9
+2022-08-29,Turkish Pink Lady Red Apples 1kg,12
+2022-08-30,Turkish Pink Lady Red Apples 1kg,7
+2022-08-31,Turkish Pink Lady Red Apples 1kg,6
+2022-09-01,Turkish Pink Lady Red Apples 1kg,6
+2022-09-02,Turkish Pink Lady Red Apples 1kg,14
+2022-09-03,Turkish Pink Lady Red Apples 1kg,4
+2022-09-04,Turkish Pink Lady Red Apples 1kg,2
+2022-09-05,Turkish Pink Lady Red Apples 1kg,13
+2022-09-06,Turkish Pink Lady Red Apples 1kg,7
+2022-09-07,Turkish Pink Lady Red Apples 1kg,8
+2022-09-08,Turkish Pink Lady Red Apples 1kg,6
+2022-09-09,Turkish Pink Lady Red Apples 1kg,9
+2022-09-10,Turkish Pink Lady Red Apples 1kg,6
+2022-09-11,Turkish Pink Lady Red Apples 1kg,3
+2022-09-12,Turkish Pink Lady Red Apples 1kg,16
+2022-09-13,Turkish Pink Lady Red Apples 1kg,18
+2022-09-14,Turkish Pink Lady Red Apples 1kg,5
+2022-09-15,Turkish Pink Lady Red Apples 1kg,6
+2022-09-16,Turkish Pink Lady Red Apples 1kg,1
+2022-09-17,Turkish Pink Lady Red Apples - 1kg,7
+2022-09-18,Turkish Pink Lady Red Apples - 1kg,4
+2022-09-19,Turkish Pink Lady Red Apples - 1kg,7
+2022-09-20,Turkish Pink Lady Red Apples - 1kg,10
+2022-09-21,Turkish Pink Lady Red Apples - Per Piece,16
+2022-09-21,Turkish Pink Lady Red Apples - 1kg,7
+2022-09-22,Turkish Pink Lady Red Apples - Per Piece,21
+2022-09-23,Turkish Pink Lady Red Apples - Per Piece,12
+2022-09-24,Turkish Pink Lady Red Apples - Per Piece,2
+2022-09-25,Turkish Pink Lady Red Apples - Per Piece,25
+2022-09-26,Turkish Pink Lady Red Apples - Per Piece,22
+2022-09-27,Turkish Pink Lady Red Apples - Per Piece,106
+2022-09-28,Turkish Pink Lady Red Apples - Per Piece,12
+2022-09-29,Turkish Pink Lady Red Apples - Per Piece,45
+2022-09-30,Turkish Pink Lady Red Apples - Per Piece,113
+2022-10-01,Turkish Pink Lady Red Apples - Per Piece,47
+2022-10-02,Turkish Pink Lady Red Apples - Per Piece,7
+2022-10-03,Turkish Pink Lady Red Apples - Per Piece,75
+2022-10-04,Turkish Pink Lady Red Apples - Per Piece,26
+2022-10-05,Turkish Pink Lady Red Apples - Per Piece,39
+2022-10-06,Turkish Pink Lady Red Apples - Per Piece,82
+2022-10-07,Turkish Pink Lady Red Apples - Per Piece,32
+2022-10-08,Turkish Pink Lady Red Apples - Per Piece,23
+2022-10-09,Turkish Pink Lady Red Apples - Per Piece,14
+2022-10-10,Turkish Pink Lady Red Apples - Per Piece,40
+2022-10-11,Turkish Pink Lady Red Apples - Per Piece,85
+2022-10-12,Turkish Pink Lady Red Apples - Per Piece,36
+2022-10-13,Turkish Pink Lady Red Apples - Piece,11
+2022-10-13,Turkish Pink Lady Red Apples - Per Piece,18
+2022-10-14,Turkish Pink Lady Red Apples - Piece,34
+2022-10-15,Turkish Pink Lady Red Apples - Piece,23
+2022-10-16,Turkish Pink Lady Red Apples - Piece,24
+2022-10-17,Turkish Pink Lady Red Apples - Piece,45
+2022-10-18,Turkish Pink Lady Red Apples - Piece,58
+2022-10-19,Turkish Pink Lady Red Apples - Piece,16
+2022-10-20,Turkish Pink Lady Red Apples - Piece,28
+2022-10-21,Turkish Pink Lady Red Apples - Piece,46
+2022-10-22,Turkish Pink Lady Red Apples - Piece,25
+2022-10-23,Turkish Pink Lady Red Apples - Piece,58
+2022-10-24,Turkish Pink Lady Red Apples - Piece,79
+2022-10-25,Turkish Pink Lady Red Apples - Piece,49
+2022-10-26,Turkish Pink Lady Red Apples - Piece,51
+2022-10-27,Turkish Pink Lady Red Apples - Piece,31
+2022-10-28,Turkish Pink Lady Red Apples - Piece,35
+2022-10-29,Turkish Pink Lady Red Apples - Piece,13
+2022-10-30,Turkish Pink Lady Red Apples - Piece,29
+2022-10-31,Turkish Pink Lady Red Apples - Piece,85
+2022-11-01,Turkish Pink Lady Red Apples - Piece,86
+2022-11-02,Turkish Pink Lady Red Apples - Piece,43
+2022-11-03,Turkish Pink Lady Red Apples - Piece,35
+2022-11-04,Turkish Pink Lady Red Apples - Piece,60
+2022-11-05,Turkish Pink Lady Red Apples - Piece,15
+2022-11-06,Turkish Pink Lady Red Apples - Piece,47
+2022-11-07,Turkish Pink Lady Red Apples - Piece,94
+2022-11-08,Turkish Pink Lady Red Apples - Piece,67
+2022-11-09,Turkish Pink Lady Red Apples - Piece,31
+2022-11-10,Turkish Pink Lady Red Apples - Piece,31
+2022-11-11,Turkish Pink Lady Red Apples - Piece,14
+2022-11-12,Turkish Pink Lady Red Apples - Piece,33
+2022-11-13,Turkish Pink Lady Red Apples - Piece,26
+2022-11-14,Turkish Pink Lady Red Apples - Piece,113
+2022-11-15,Turkish Pink Lady Red Apples - Piece,58
+2022-11-16,Turkish Pink Lady Red Apples - Piece,18
+2022-11-17,Turkish Pink Lady Red Apples - Piece,27
+2022-11-18,Turkish Pink Lady Red Apples - Piece,67
+2022-11-19,Turkish Pink Lady Red Apples - Piece,20
+2022-11-20,Turkish Pink Lady Red Apples - Piece,38
+2022-11-21,Turkish Pink Lady Red Apples - Piece,58
+2022-11-22,Turkish Pink Lady Red Apples - Piece,32
+2022-11-23,Turkish Pink Lady Red Apples - Piece,14
+2022-11-24,Turkish Pink Lady Red Apples - Piece,40
+2022-11-25,Turkish Pink Lady Red Apples - Piece,35
+2022-11-26,Turkish Pink Lady Red Apples - Piece,34
+2022-11-27,Turkish Pink Lady Red Apples - Piece,28
+2022-11-28,Turkish Pink Lady Red Apples - Piece,16
+2022-11-29,Turkish Pink Lady Red Apples - Piece,54
+2022-11-30,Turkish Pink Lady Red Apples - Piece,28
+2022-12-01,Turkish Pink Lady Red Apples - Piece,33
+2022-12-02,Turkish Pink Lady Red Apples - Piece,62
+2022-12-03,Turkish Pink Lady Red Apples - Piece,21
+2022-12-04,Turkish Pink Lady Red Apples - Piece,26
+2022-12-05,Turkish Pink Lady Red Apples - Piece,105
+2022-12-06,Turkish Pink Lady Red Apples - Piece,33
+2022-12-07,Turkish Pink Lady Red Apples - Piece,32
+2022-12-08,Turkish Pink Lady Red Apples - Piece,61
+2022-12-09,Turkish Pink Lady Red Apples - Piece,33
+2022-12-10,Turkish Pink Lady Red Apples - Piece,20
+2022-12-11,Turkish Pink Lady Red Apples - Piece,23
+2022-12-12,Turkish Pink Lady Red Apples - Piece,37
+2022-12-13,Turkish Pink Lady Red Apples - Piece,70
+2022-12-14,Turkish Pink Lady Red Apples - Piece,30
+2022-12-15,Turkish Pink Lady Red Apples - Piece,32
+2022-12-16,Turkish Pink Lady Red Apples - Piece,28
+2022-12-17,Turkish Pink Lady Red Apples - Piece,32
+2022-12-18,Turkish Pink Lady Red Apples - Piece,12
+2022-12-19,Turkish Pink Lady Red Apples - Piece,40
+2022-12-20,Turkish Pink Lady Red Apples - Piece,51
+2022-12-21,Turkish Pink Lady Red Apples - Piece,39
+2022-12-22,Turkish Pink Lady Red Apples - Piece,69
+2022-12-23,Turkish Pink Lady Red Apples - Piece,69
+2022-12-24,Turkish Pink Lady Red Apples - Piece,10
+2022-12-26,Turkish Pink Lady Red Apples - Piece,3
+2022-12-27,Turkish Pink Lady Red Apples - Piece,38
+2022-12-28,Turkish Pink Lady Red Apples - Piece,37
+2022-12-29,Turkish Pink Lady Red Apples - Piece,61
+2022-12-30,Turkish Pink Lady Red Apples - Piece,29
+2022-12-31,Turkish Pink Lady Red Apples - Piece,28
+2023-01-01,Turkish Pink Lady Red Apples - Piece,6
+2023-01-02,Turkish Pink Lady Red Apples - Piece,38
+2023-01-03,Turkish Pink Lady Red Apples - Piece,57
+2023-01-04,Turkish Pink Lady Red Apples - Piece,49
+2023-01-05,Turkish Pink Lady Red Apples - Piece,64
+2023-01-06,Turkish Pink Lady Red Apples - Piece,53
+2023-01-07,Turkish Pink Lady Red Apples - Piece,47
+2023-01-08,Turkish Pink Lady Red Apples - Piece,54
+2023-01-09,Turkish Pink Lady Red Apples - Piece,73
+2023-01-10,Turkish Pink Lady Red Apples - Piece,87
+2023-01-11,Turkish Pink Lady Red Apples - Piece,64
+2023-01-12,Turkish Pink Lady Red Apples - Piece,43
+2023-01-13,Turkish Pink Lady Red Apples - Piece,36
+2023-01-14,Turkish Pink Lady Red Apples - Piece,63
+2023-01-15,Turkish Pink Lady Red Apples - Piece,40
+2023-01-16,Turkish Pink Lady Red Apples - Piece,95
+2023-01-17,Turkish Pink Lady Red Apples - Piece,47
+2023-01-18,Turkish Pink Lady Red Apples - Piece,52
+2023-01-19,Turkish Pink Lady Red Apples - Piece,68
+2023-01-20,Turkish Pink Lady Red Apples - Piece,80
+2023-01-21,Turkish Pink Lady Red Apples - Piece,42
+2023-01-22,Turkish Pink Lady Red Apples - Piece,38
+2023-01-23,Turkish Pink Lady Red Apples - Piece,84
+2023-01-24,Turkish Pink Lady Red Apples - Piece,76
+2023-01-25,Turkish Pink Lady Red Apples - Piece,47
+2023-01-26,Turkish Pink Lady Red Apples - Piece,29
+2023-01-27,Turkish Pink Lady Red Apples - Piece,80
+2023-01-28,Turkish Pink Lady Red Apples - Piece,36
+2023-01-29,Turkish Pink Lady Red Apples - Piece,58
+2023-01-30,Turkish Pink Lady Red Apples - Piece,74
+2023-01-31,Turkish Pink Lady Red Apples - Piece,37
+2023-02-01,Turkish Pink Lady Red Apples - Piece,45
+2023-02-02,Turkish Pink Lady Red Apples - Piece,21
+2023-02-03,Turkish Pink Lady Red Apples - Piece,66
+2023-02-04,Turkish Pink Lady Red Apples - Piece,60
+2023-02-05,Turkish Pink Lady Red Apples - Piece,57
+2023-02-06,Turkish Pink Lady Red Apples - Piece,134
+2023-02-07,Turkish Pink Lady Red Apples - Piece,46
+2023-05-15,South Africa Pink Lady Red Apples - Piece,41
+2023-05-16,South Africa Pink Lady Red Apples - Piece,89
+2023-05-17,South Africa Pink Lady Red Apples - Piece,60
+2023-05-18,South Africa Pink Lady Red Apples - Piece,61
+2023-05-19,South Africa Pink Lady Red Apples - Piece,51
+2023-05-20,South Africa Pink Lady Red Apples - Piece,33
+2023-05-21,South Africa Pink Lady Red Apples - Piece,28
+2023-05-22,South Africa Pink Lady Red Apples - Piece,77
+2023-05-23,South Africa Pink Lady Red Apples - Piece,91
+2023-05-24,South Africa Pink Lady Red Apples - Piece,44
+2023-05-25,South Africa Pink Lady Red Apples - Piece,43
+2023-05-26,South Africa Pink Lady Red Apples - Piece,71
+2023-05-27,South Africa Pink Lady Red Apples - Piece,73
+2023-05-28,South Africa Pink Lady Red Apples - Piece,42
+2023-05-29,South Africa Pink Lady Red Apples - Piece,73
+2023-05-30,South Africa Pink Lady Red Apples - Piece,79
+2023-05-31,South Africa Pink Lady Red Apples - Piece,39
+2023-06-01,South Africa Pink Lady Red Apples - Piece,58
+2023-06-02,South Africa Pink Lady Red Apples - Piece,6
+2023-06-03,South Africa Pink Lady Red Apples - Piece,56
+2023-06-04,South Africa Pink Lady Red Apples - Piece,58
+2023-06-05,South Africa Pink Lady Red Apples - Piece,114
+2023-06-06,South Africa Pink Lady Red Apples - Piece,34
+2023-06-07,South Africa Pink Lady Red Apples - Piece,38
+2023-06-08,South Africa Pink Lady Red Apples - Piece,51
+2023-06-09,South Africa Pink Lady Red Apples - Piece,44
+2023-06-10,South Africa Pink Lady Red Apples - Piece,44
+2023-06-11,South Africa Pink Lady Red Apples - Piece,43
+2023-06-12,South Africa Pink Lady Red Apples - Piece,110
+2023-06-13,South Africa Pink Lady Red Apples - Piece,66
+2023-06-14,South Africa Pink Lady Red Apples - Piece,74
+2023-06-15,South Africa Pink Lady Red Apples - Piece,53
+2023-06-16,South Africa Pink Lady Red Apples - Piece,49
+2023-06-17,South Africa Pink Lady Red Apples - Piece,17
+2023-06-18,South Africa Pink Lady Red Apples - Piece,62
+2023-06-19,South Africa Pink Lady Red Apples - Piece,69
+2023-06-20,South Africa Pink Lady Red Apples - Piece,117
+2023-06-21,South Africa Pink Lady Red Apples - Piece,67
+2023-06-22,South Africa Pink Lady Red Apples - Piece,47
+2023-06-23,South Africa Pink Lady Red Apples - Piece,51
+2023-06-24,South Africa Pink Lady Red Apples - Piece,48
+2023-06-25,South Africa Pink Lady Red Apples - Piece,62
+2023-06-26,South Africa Pink Lady Red Apples - Piece,152
+2023-06-27,South Africa Pink Lady Red Apples - Piece,98
+2023-06-28,South Africa Pink Lady Red Apples - Piece,56
+2023-06-29,South Africa Pink Lady Red Apples - Piece,121
+2023-06-30,South Africa Pink Lady Red Apples - Piece,52
+2023-07-01,South Africa Pink Lady Red Apples - Piece,34
+2023-07-02,South Africa Pink Lady Red Apples - Piece,65
+2023-07-03,South Africa Pink Lady Red Apples - Piece,79
+2023-07-04,South Africa Pink Lady Red Apples - Piece,10
+2023-07-05,South Africa Pink Lady Red Apples - Piece,34
+2023-07-06,South Africa Pink Lady Red Apples - Piece,51
+2023-07-07,South Africa Pink Lady Red Apples - Piece,39
+2023-07-08,South Africa Pink Lady Red Apples - Piece,85
+2023-07-09,South Africa Pink Lady Red Apples - Piece,29
+2023-07-10,South Africa Pink Lady Red Apples - Piece,59
+2023-07-11,South Africa Pink Lady Red Apples - Piece,54
+2023-07-12,South Africa Pink Lady Red Apples - Piece,52
+2023-07-13,South Africa Pink Lady Red Apples - Piece,41
+2023-07-14,South Africa Pink Lady Red Apples - Piece,23
+2023-07-15,South Africa Pink Lady Red Apples - Piece,64
+2023-07-16,South Africa Pink Lady Red Apples - Piece,13
+2023-07-17,South Africa Pink Lady Red Apples - Piece,85
+2023-07-18,South Africa Pink Lady Red Apples - Piece,14
+2023-07-19,South Africa Pink Lady Red Apples - Piece,19
+2023-07-20,South Africa Pink Lady Red Apples - Piece,12
+2023-07-21,South Africa Pink Lady Red Apples - Piece,13
+2023-07-22,South Africa Pink Lady Red Apples - Piece,36
+2023-07-23,South Africa Pink Lady Red Apples - Piece,20
+2023-07-24,South Africa Pink Lady Red Apples - Piece,85
+2023-07-25,South Africa Pink Lady Red Apples - Piece,75
+2023-07-26,South Africa Pink Lady Red Apples - Piece,56
+2023-07-27,South Africa Pink Lady Red Apples - Piece,47
+2023-07-28,South Africa Pink Lady Red Apples - Piece,30
+2023-07-29,South Africa Pink Lady Red Apples - Piece,25
+2023-07-30,South Africa Pink Lady Red Apples - Piece,9
+2023-07-31,South Africa Pink Lady Red Apples - Piece,106
+2023-08-01,South Africa Pink Lady Red Apples - Piece,80
+2023-08-02,South Africa Pink Lady Red Apples - Piece,29
+2023-08-03,South Africa Pink Lady Red Apples - Piece,59
+2023-08-04,South Africa Pink Lady Red Apples - Piece,34
+2023-08-05,South Africa Pink Lady Red Apples - Piece,27
+2023-08-06,South Africa Pink Lady Red Apples - Piece,17
+2023-08-07,South Africa Pink Lady Red Apples - Piece,81
+2023-08-08,South Africa Pink Lady Red Apples - Piece,69
+2023-08-09,South Africa Pink Lady Red Apples - Piece,52
+2023-08-10,South Africa Pink Lady Red Apples - Piece,46
+2023-08-11,South Africa Pink Lady Red Apples - Piece,4
+2023-08-12,South Africa Pink Lady Red Apples - Piece,39
+2023-08-13,South Africa Pink Lady Red Apples - Piece,23
+2023-08-14,South Africa Pink Lady Red Apples - Piece,105
+2023-08-15,South Africa Pink Lady Red Apples - Piece,29
+2023-08-16,South Africa Pink Lady Red Apples - Piece,100
+2023-08-17,South Africa Pink Lady Red Apples - Piece,157
+2023-08-18,South Africa Pink Lady Red Apples - Piece,97
+2023-08-19,South Africa Pink Lady Red Apples - Piece,37
+2023-08-20,South Africa Pink Lady Red Apples - Piece,62
+2023-08-21,South Africa Pink Lady Red Apples - Piece,121
+2023-08-22,South Africa Pink Lady Red Apples - Piece,41
+2023-08-23,South Africa Pink Lady Red Apples - Piece,117
+2023-08-24,South Africa Pink Lady Red Apples - Piece,48
+2023-08-25,South Africa Pink Lady Red Apples - Piece,54
+2023-08-26,South Africa Pink Lady Red Apples - Piece,70
+2023-08-27,South Africa Pink Lady Red Apples - Piece,105
+2023-08-28,South Africa Pink Lady Red Apples - Piece,156
+2023-08-29,South Africa Pink Lady Red Apples - Piece,123
+2023-08-30,South Africa Pink Lady Red Apples - Piece,73
+2023-08-31,South Africa Pink Lady Red Apples - Piece,109
+2023-09-01,South Africa Pink Lady Red Apples - Piece,97
+2023-09-02,South Africa Pink Lady Red Apples - Piece,67
+2023-09-03,South Africa Pink Lady Red Apples - Piece,95
+2023-09-04,South Africa Pink Lady Red Apples - Piece,192
+2023-09-05,South Africa Pink Lady Red Apples - Piece,117
+2023-09-06,South Africa Pink Lady Red Apples - Piece,75
+2023-09-07,South Africa Pink Lady Red Apples - Piece,138
+2023-09-08,South Africa Pink Lady Red Apples - Piece,134
+2023-09-09,South Africa Pink Lady Red Apples - Piece,87
+2023-09-10,South Africa Pink Lady Red Apples - Piece,79
+2023-09-11,South Africa Pink Lady Red Apples - Piece,159
+2023-09-12,South Africa Pink Lady Red Apples - Piece,80
+2023-09-13,South Africa Pink Lady Red Apples - Piece,68
+2023-09-14,South Africa Pink Lady Red Apples - Piece,112
+2023-09-15,South Africa Pink Lady Red Apples - Piece,82
+2023-09-16,South Africa Pink Lady Red Apples - Piece,68
+2023-09-17,South Africa Pink Lady Red Apples - Piece,41
+2023-09-18,South Africa Pink Lady Red Apples - Piece,139
+2023-09-19,South Africa Pink Lady Red Apples - Piece,119
+2023-09-20,South Africa Pink Lady Red Apples - Piece,76
+2023-09-21,South Africa Pink Lady Red Apples - Piece,112
+2023-09-22,South Africa Pink Lady Red Apples - Piece,96
+2023-09-23,South Africa Pink Lady Red Apples - Piece,55
+2023-09-24,South Africa Pink Lady Red Apples - Piece,49
+2023-09-25,South Africa Pink Lady Red Apples - Piece,167
+2023-09-26,South Africa Pink Lady Red Apples - Piece,148
+2023-09-27,South Africa Pink Lady Red Apples - Piece,76
+2023-09-28,South Africa Pink Lady Red Apples - Piece,132
+2023-09-29,South Africa Pink Lady Red Apples - Piece,79
+2023-09-30,South Africa Pink Lady Red Apples - Piece,71
+2023-10-01,South Africa Pink Lady Red Apples - Piece,73
+2023-10-02,South Africa Pink Lady Red Apples - Piece,165
+2023-10-03,South Africa Pink Lady Red Apples - Piece,139
+2023-10-04,South Africa Pink Lady Red Apples - Piece,175
+2023-10-05,South Africa Pink Lady Red Apples - Piece,125
+2023-10-06,South Africa Pink Lady Red Apples - Piece,70
+2023-10-07,South Africa Pink Lady Red Apples - Piece,87
+2023-10-08,South Africa Pink Lady Red Apples - Piece,70
+2023-10-09,South Africa Pink Lady Red Apples - Piece,140
+2023-10-10,South Africa Pink Lady Red Apples - Piece,124
+2023-10-11,South Africa Pink Lady Red Apples - Piece,87
+2023-10-12,South Africa Pink Lady Red Apples - Piece,143
+2023-10-13,South Africa Pink Lady Red Apples - Piece,138
+2023-10-14,South Africa Pink Lady Red Apples - Piece,63
+2023-10-15,South Africa Pink Lady Red Apples - Piece,42
+2023-10-16,South Africa Pink Lady Red Apples - Piece,148
+2023-10-17,South Africa Pink Lady Red Apples - Piece,45
+2023-10-18,South Africa Pink Lady Red Apples - Piece,93
+2023-10-19,South Africa Pink Lady Red Apples - Piece,52
+2023-10-20,South Africa Pink Lady Red Apples - Piece,65
+2023-10-21,South Africa Pink Lady Red Apples - Piece,35
+2023-10-22,South Africa Pink Lady Red Apples - Piece,2
+2023-10-23,South Africa Pink Lady Red Apples - Piece,141
+2023-10-24,South Africa Pink Lady Red Apples - Piece,75
+2023-10-25,South Africa Pink Lady Red Apples - Piece,34
+2023-10-26,South Africa Pink Lady Red Apples - Piece,145
+2023-10-27,South Africa Pink Lady Red Apples - Piece,139
+2023-10-28,South Africa Pink Lady Red Apples - Piece,121
+2023-10-29,South Africa Pink Lady Red Apples - Piece,97
+2023-10-30,South Africa Pink Lady Red Apples - Piece,237
+2023-10-31,South Africa Pink Lady Red Apples - Piece,116
+2023-11-01,South Africa Pink Lady Red Apples - Piece,62
+2023-11-02,South Africa Pink Lady Red Apples - Piece,127
+2023-11-03,South Africa Pink Lady Red Apples - Piece,123
+2023-11-04,South Africa Pink Lady Red Apples - Piece,126
+2023-11-05,South Africa Pink Lady Red Apples - Piece,98
+2023-11-06,South Africa Pink Lady Red Apples - Piece,68
+2023-11-07,South Africa Pink Lady Red Apples - Piece,69
+2023-11-08,South Africa Pink Lady Red Apples - Piece,109
+2023-11-09,South Africa Pink Lady Red Apples - Piece,13
+2023-11-18,South Africa Pink Lady Red Apples - Piece,66
+2023-11-19,South Africa Pink Lady Red Apples - Piece,84
+2023-11-20,South Africa Pink Lady Red Apples - Piece,18
+2023-11-21,South Africa Pink Lady Red Apples - Piece,5
+2023-11-22,South Africa Pink Lady Red Apples - Piece,90
+2023-11-23,South Africa Pink Lady Red Apples - Piece,125
+2023-11-24,South Africa Pink Lady Red Apples - Piece,157
+2023-11-25,South Africa Pink Lady Red Apples - Piece,61
+2023-11-26,South Africa Pink Lady Red Apples - Piece,93
+2023-11-27,South Africa Pink Lady Red Apples - Piece,170
+2023-11-28,South Africa Pink Lady Red Apples - Piece,112
+2023-11-29,South Africa Pink Lady Red Apples - Piece,103
+2023-11-30,South Africa Pink Lady Red Apples - Piece,143
+2023-12-01,South Africa Pink Lady Red Apples - Piece,78
+2023-12-02,South Africa Pink Lady Red Apples - Piece,71
+2023-12-03,South Africa Pink Lady Red Apples - Piece,46
+2023-12-04,South Africa Pink Lady Red Apples - Piece,284
+2023-12-05,South Africa Pink Lady Red Apples - Piece,117
+2023-12-06,South Africa Pink Lady Red Apples - Piece,102
+2023-12-07,South Africa Pink Lady Red Apples - Piece,109
+2023-12-08,South Africa Pink Lady Red Apples - Piece,80
+2023-12-09,South Africa Pink Lady Red Apples - Piece,27
+2023-12-10,South Africa Pink Lady Red Apples - Piece,56
+2023-12-11,South Africa Pink Lady Red Apples - Piece,157
+2023-12-12,South Africa Pink Lady Red Apples - Piece,60
+2023-12-13,South Africa Pink Lady Red Apples - Piece,120
+2023-12-14,South Africa Pink Lady Red Apples - Piece,90
+2023-12-15,South Africa Pink Lady Red Apples - Piece,52
+2023-12-16,South Africa Pink Lady Red Apples - Piece,57
+2023-12-17,South Africa Pink Lady Red Apples - Piece,43
+2023-12-18,South Africa Pink Lady Red Apples - Piece,117
+2023-12-19,South Africa Pink Lady Red Apples - Piece,81
+2023-12-20,South Africa Pink Lady Red Apples - Piece,87
+2023-12-21,South Africa Pink Lady Red Apples - Piece,102
+2023-12-22,South Africa Pink Lady Red Apples - Piece,95
+2023-12-23,South Africa Pink Lady Red Apples - Piece,102
+2023-12-24,South Africa Pink Lady Red Apples - Piece,33
+2023-12-25,South Africa Pink Lady Red Apples - Piece,10
+2023-12-26,South Africa Pink Lady Red Apples - Piece,18
+2023-12-27,South Africa Pink Lady Red Apples - Piece,86
+2023-12-28,South Africa Pink Lady Red Apples - Piece,82
+2023-12-29,South Africa Pink Lady Red Apples - Piece,65
+2023-12-30,South Africa Pink Lady Red Apples - Piece,57
+2023-12-31,South Africa Pink Lady Red Apples - Piece,39
+2024-01-01,South Africa Pink Lady Red Apples - Piece,78
+2024-01-02,South Africa Pink Lady Red Apples - Piece,102
+2024-01-03,South Africa Pink Lady Red Apples - Piece,27
+2024-01-05,South Africa Pink Lady Red Apples - Piece,47
+2024-01-06,South Africa Pink Lady Red Apples - Piece,84
+2024-01-07,South Africa Pink Lady Red Apples - Piece,73
+2024-01-08,South Africa Pink Lady Red Apples - Piece,257
+2024-01-09,South Africa Pink Lady Red Apples - Piece,91
+2024-01-10,South Africa Pink Lady Red Apples - Piece,105
+2024-01-11,South Africa Pink Lady Red Apples - Piece,28
+2024-01-16,South Africa Pink Lady Red Apples - Piece,101
+2024-01-17,South Africa Pink Lady Red Apples - Piece,120
+2024-01-18,South Africa Pink Lady Red Apples - Piece,116
+2024-01-19,South Africa Pink Lady Red Apples - Piece,134
+2024-01-20,South Africa Pink Lady Red Apples - Piece,75
+2024-01-21,South Africa Pink Lady Red Apples - Piece,103
+2024-01-22,South Africa Pink Lady Red Apples - Piece,249
+2024-01-23,South Africa Pink Lady Red Apples - Piece,90
+2024-01-24,South Africa Pink Lady Red Apples - Piece,76
+2024-01-25,South Africa Pink Lady Red Apples - Piece,125
+2024-01-26,South Africa Pink Lady Red Apples - Piece,129
+2024-01-27,South Africa Pink Lady Red Apples - Piece,48
+2024-01-28,South Africa Pink Lady Red Apples - Piece,39
+2024-01-29,South Africa Pink Lady Red Apples - Piece,239
+2024-01-30,South Africa Pink Lady Red Apples - Piece,114
+2024-01-31,South Africa Pink Lady Red Apples - Piece,90
+2024-02-01,South Africa Pink Lady Red Apples - Piece,112
+2024-02-02,South Africa Pink Lady Red Apples - Piece,1
+2024-02-07,South Africa Pink Lady Red Apples - Piece,68
+2024-02-08,South Africa Pink Lady Red Apples - Piece,10
+2024-02-09,South Africa Pink Lady Red Apples - Piece,2
+2024-02-10,South Africa Pink Lady Red Apples - Piece,40
+2024-02-13,South Africa Pink Lady Red Apples - Piece,30
+2024-02-15,South Africa Pink Lady Red Apples - Piece,14
+2024-02-16,South Africa Pink Lady Red Apples - Piece,15
+2024-02-18,South Africa Pink Lady Red Apples - Piece,20
+2024-02-19,South Africa Pink Lady Red Apples - Piece,11
+2024-03-03,South Africa Pink Lady Red Apples - Piece,48
+2024-03-04,South Africa Pink Lady Red Apples - Piece,209
+2024-04-12,South Africa Pink Lady Red Apples - Piece,5
+2024-04-13,South Africa Pink Lady Red Apples - Piece,78
+2024-04-14,South Africa Pink Lady Red Apples - Piece,56
+2024-04-15,South Africa Pink Lady Red Apples - Piece,108
+2024-04-16,South Africa Pink Lady Red Apples - Piece,84
+2024-04-17,South Africa Pink Lady Red Apples - Piece,112
+2024-04-18,South Africa Pink Lady Red Apples - Piece,36
+2024-04-19,South Africa Pink Lady Red Apples - Piece,66
+2024-04-20,South Africa Pink Lady Red Apples - Piece,96
+2024-04-21,South Africa Pink Lady Red Apples - Piece,8
+2024-04-22,South Africa Pink Lady Red Apples - Piece,15
+2024-04-23,South Africa Pink Lady Red Apples - Piece,116
+2024-04-24,South Africa Pink Lady Red Apples - Piece,159
+2024-04-25,South Africa Pink Lady Red Apples - Piece,97
+2024-04-26,South Africa Pink Lady Red Apples - Piece,140
+2024-04-27,South Africa Pink Lady Red Apples - Piece,95
+2024-04-28,South Africa Pink Lady Red Apples - Piece,126
+2024-04-29,South Africa Pink Lady Red Apples - Piece,128
+2024-04-30,South Africa Pink Lady Red Apples - Piece,149
+2024-05-01,South Africa Pink Lady Red Apples - Piece,94
+2024-05-02,South Africa Pink Lady Red Apples - Piece,138
+2024-05-03,South Africa Pink Lady Red Apples - Piece,172
+2024-05-04,South Africa Pink Lady Red Apples - Piece,117
+2024-05-05,South Africa Pink Lady Red Apples - Piece,94
+2024-05-06,South Africa Pink Lady Red Apples - Piece,99
+2024-05-07,South Africa Pink Lady Red Apples - Piece,108
+2024-05-08,South Africa Pink Lady Red Apples - Piece,139
+2024-05-09,South Africa Pink Lady Red Apples - Piece,129
+2024-05-10,South Africa Pink Lady Red Apples - Piece,115
+2024-05-11,South Africa Pink Lady Red Apples - Piece,62
+2024-05-12,South Africa Pink Lady Red Apples - Piece,106
+2024-05-13,South Africa Pink Lady Red Apples - Piece,257
+2024-05-14,South Africa Pink Lady Red Apples - Piece,177
+2024-05-15,South Africa Pink Lady Red Apples - Piece,138
+2024-05-16,South Africa Pink Lady Red Apples - Piece,157
+2024-05-17,South Africa Pink Lady Red Apples - Piece,187
+2024-05-18,South Africa Pink Lady Red Apples - Piece,129
+2024-05-19,South Africa Pink Lady Red Apples - Piece,197
+2024-05-20,South Africa Pink Lady Red Apples - Piece,197
+2024-05-21,South Africa Pink Lady Red Apples - Piece,179
+2024-05-22,South Africa Pink Lady Red Apples - Piece,100
+2024-05-23,South Africa Pink Lady Red Apples - Piece,121
+2024-05-24,South Africa Pink Lady Red Apples - Piece,55
+2024-05-25,South Africa Pink Lady Red Apples - Piece,68
+2024-05-26,South Africa Pink Lady Red Apples - Piece,61
+2024-05-27,South Africa Pink Lady Red Apples - Piece,252
+2024-05-28,South Africa Pink Lady Red Apples - Piece,131
+2024-05-29,South Africa Pink Lady Red Apples - Piece,180
+2024-05-30,South Africa Pink Lady Red Apples - Piece,157
+2024-05-31,South Africa Pink Lady Red Apples - Piece,140
+2024-06-01,South Africa Pink Lady Red Apples - Piece,86
+2024-06-02,South Africa Pink Lady Red Apples - Piece,154
+2024-06-03,South Africa Pink Lady Red Apples - Piece,249
+2024-06-04,South Africa Pink Lady Red Apples - Piece,143
+2024-06-05,South Africa Pink Lady Red Apples - Piece,164
+2024-06-06,South Africa Pink Lady Red Apples - Piece,144
+2024-06-07,South Africa Pink Lady Red Apples - Piece,184
+2024-06-08,South Africa Pink Lady Red Apples - Piece,103
+2024-06-09,South Africa Pink Lady Red Apples - Piece,60
+2024-06-10,South Africa Pink Lady Red Apples - Piece,166
+2024-06-11,South Africa Pink Lady Red Apples - Piece,102
+2024-06-12,South Africa Pink Lady Red Apples - Piece,94
+2024-06-13,South Africa Pink Lady Red Apples - Piece,123
+2024-06-14,South Africa Pink Lady Red Apples - Piece,159
+2024-06-15,South Africa Pink Lady Red Apples - Piece,120
+2024-06-16,South Africa Pink Lady Red Apples - Piece,65
+2024-06-17,South Africa Pink Lady Red Apples - Piece,145
+2024-06-18,South Africa Pink Lady Red Apples - Piece,151
+2024-06-19,South Africa Pink Lady Red Apples - Piece,220
+2024-06-20,South Africa Pink Lady Red Apples - Piece,139
+2024-06-21,South Africa Pink Lady Red Apples - Piece,95
+2024-06-22,South Africa Pink Lady Red Apples - Piece,82
+2024-06-23,South Africa Pink Lady Red Apples - Piece,50
+2024-06-24,South Africa Pink Lady Red Apples - Piece,302
+2024-06-25,South Africa Pink Lady Red Apples - Piece,78
+2024-06-26,South Africa Pink Lady Red Apples - Piece,283
+2024-06-28,South Africa Pink Lady Red Apples - Piece,199
+2024-06-29,South Africa Pink Lady Red Apples - Piece,101
+2024-06-30,South Africa Pink Lady Red Apples - Piece,67
+2024-07-01,South Africa Pink Lady Red Apples - Piece,237
+2024-07-02,South Africa Pink Lady Red Apples - Piece,173
+2024-07-03,South Africa Pink Lady Red Apples - Piece,194
+2024-07-04,South Africa Pink Lady Red Apples - Piece,105
+2024-07-05,South Africa Pink Lady Red Apples - Piece,123
+2024-07-06,South Africa Pink Lady Red Apples - Piece,114
+2024-07-07,South Africa Pink Lady Red Apples - Piece,69
+2024-07-08,South Africa Pink Lady Red Apples - Piece,183
+2024-07-09,South Africa Pink Lady Red Apples - Piece,120
+2024-07-10,South Africa Pink Lady Red Apples - Piece,65
+2024-07-11,South Africa Pink Lady Red Apples - Piece,124
+2024-07-12,South Africa Pink Lady Red Apples - Piece,124
+2024-07-13,South Africa Pink Lady Red Apples - Piece,81
+2024-07-14,South Africa Pink Lady Red Apples - Piece,75
+2024-07-15,South Africa Pink Lady Red Apples - Piece,161
+2024-07-16,South Africa Pink Lady Red Apples - Piece,131
+2024-07-17,South Africa Pink Lady Red Apples - Piece,103
+2024-07-18,South Africa Pink Lady Red Apples - Piece,79
+2024-07-19,South Africa Pink Lady Red Apples - Piece,147
+2024-07-20,South Africa Pink Lady Red Apples - Piece,65
+2024-07-21,South Africa Pink Lady Red Apples - Piece,86
+2024-07-22,South Africa Pink Lady Red Apples - Piece,165
+2024-07-23,South Africa Pink Lady Red Apples - Piece,117
+2024-07-24,South Africa Pink Lady Red Apples - Piece,120
+2024-07-25,South Africa Pink Lady Red Apples - Piece,115
+2024-07-26,South Africa Pink Lady Red Apples - Piece,103
+2024-07-27,South Africa Pink Lady Red Apples - Piece,67
+2024-07-28,South Africa Pink Lady Red Apples - Piece,57

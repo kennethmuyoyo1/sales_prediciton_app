@@ -1,0 +1,463 @@
+Date,Product Name,Quantity
+2019-02-13,Lactose Free Milk - 500ml,4
+2019-02-18,Lactose Free Milk - 500ml,4
+2019-02-26,Lactose Free Milk - 500ml,1
+2019-03-12,Lactose Free Milk - 500ml,2
+2019-04-01,Lactose Free Milk - 500ml,1
+2019-05-13,Lactose Free Milk - 500ml,5
+2019-05-27,Lactose Free Milk - 500ml,4
+2019-06-03,Lactose Free Milk - 500ml,1
+2019-06-04,Lactose Free Milk - 500ml,1
+2019-06-20,Lactose Free Milk - 500ml,1
+2019-06-23,Lactose Free Milk - 500ml,1
+2019-06-25,Lactose Free Milk - 500ml,4
+2019-06-30,Lactose Free Milk - 500ml,4
+2019-07-04,Lactose Free Milk - 500ml,1
+2019-07-08,Lactose Free Milk - 500ml,2
+2019-07-20,Lactose Free Milk - 500ml,5
+2019-07-24,Lactose Free Milk - 500ml,7
+2019-08-11,Lactose Free Milk - 500ml,5
+2019-08-28,Lactose Free Milk - 500ml,1
+2019-08-30,Lactose Free Milk - 500ml,2
+2019-09-12,Lactose Free Milk - 500ml,2
+2019-09-15,Lactose Free Milk - 500ml,2
+2019-09-25,Lactose Free Milk - 500ml,8
+2019-09-27,Lactose Free Milk - 500ml,4
+2019-10-22,Lactose Free Milk - 500ml,2
+2019-10-27,Lactose Free Milk - 500ml,1
+2019-10-28,Lactose Free Milk - 500ml,6
+2019-11-02,Lactose Free Milk - 500ml,6
+2019-11-04,Lactose Free Milk - 500ml,1
+2019-11-05,Lactose Free Milk - 500ml,1
+2019-11-20,Lactose Free Milk - 500ml,3
+2019-11-25,Lactose Free Milk - 500ml,2
+2019-12-04,Lactose Free Milk - 500ml,2
+2019-12-17,Lactose Free Milk - 500ml,3
+2019-12-31,Lactose Free Milk - 500ml,3
+2020-01-06,Lactose Free Milk,2
+2020-01-13,Lactose Free Milk,4
+2020-01-21,Lactose Free Milk,4
+2020-01-24,Lactose Free Milk,4
+2020-01-27,Lactose Free Milk,1
+2020-02-03,Lactose Free Milk,3
+2020-02-04,Lactose Free Milk,1
+2020-03-04,Lactose Free Milk,2
+2020-03-10,Lactose Free Milk,4
+2020-03-16,Lactose Free Milk,5
+2020-03-17,Lactose Free Milk,2
+2020-05-20,Lactose Free Milk,1
+2020-05-22,Lactose Free Milk,2
+2020-05-29,Lactose Free Milk,4
+2020-06-03,Lactose Free Milk,2
+2020-06-04,Lactose Free Milk,3
+2020-06-17,Lactose Free Milk,4
+2020-06-22,Lactose Free Milk,1
+2020-06-26,Lactose Free Milk,3
+2020-06-30,Lactose Free Milk,1
+2020-07-06,Lactose Free Milk,1
+2020-07-21,Lactose Free Milk,2
+2020-08-01,Lactose Free Milk,1
+2020-08-06,Lactose Free Milk,8
+2020-08-17,Lactose Free Milk,1
+2020-08-24,Lactose Free Milk,6
+2020-08-26,Lactose Free Milk,1
+2020-08-31,Lactose Free Milk,6
+2020-09-02,Lactose Free Milk,2
+2020-09-11,Lactose Free Milk,1
+2020-09-15,Lactose Free Milk,1
+2020-09-16,Lactose Free Milk,1
+2020-09-28,Lactose Free Milk,1
+2020-09-29,Lactose Free Milk,2
+2020-10-07,Lactose Free Milk,4
+2020-10-15,Lactose Free Milk,1
+2020-10-20,Lactose Free Milk,10
+2020-11-05,Lactose Free Milk,1
+2020-11-11,Lactose Free Milk,1
+2020-11-16,Lactose Free Milk,3
+2020-12-09,Lactose Free Milk,1
+2020-12-20,Lactose Free Milk,1
+2021-01-14,Lactose Free Milk,2
+2021-01-15,Lactose Free Milk,1
+2021-02-03,Lactose Free Milk,3
+2021-02-08,Lactose Free Milk,12
+2021-02-15,Lactose Free Milk,4
+2021-02-19,Lactose Free Milk,2
+2021-03-02,Lactose Free Milk,1
+2021-03-04,Lactose Free Milk,1
+2021-03-17,Lactose Free Milk,1
+2021-03-18,Lactose Free Milk,2
+2021-03-30,Lactose Free Milk,1
+2021-04-07,Lactose Free Milk,2
+2021-04-08,Lactose Free Milk,2
+2021-04-16,Lactose Free Milk,4
+2021-04-19,Lactose Free Milk,1
+2021-04-21,Lactose Free Milk,4
+2021-04-23,Lactose Free Milk,3
+2021-05-08,Lactose Free Milk,3
+2021-05-11,Lactose Free Milk,8
+2021-05-12,Lactose Free Milk,1
+2021-05-20,Lactose Free Milk,12
+2021-05-22,Lactose Free Milk,2
+2021-05-27,Lactose Free Milk,2
+2021-05-28,Lactose Free Milk,9
+2021-05-31,Lactose Free Milk,1
+2021-06-07,Lactose Free Milk,3
+2021-06-12,Lactose Free Milk,2
+2021-06-16,Lactose Free Milk,10
+2021-06-24,Lactose Free Milk,5
+2021-07-04,Lactose Free Milk,2
+2021-07-08,Lactose Free Milk,6
+2021-07-14,Lactose Free Milk - 500ml,3
+2021-07-17,Lactose Free Milk - 500ml,5
+2021-07-22,Lactose Free Milk - 500ml,2
+2021-07-23,Lactose Free Milk - 500ml,4
+2021-08-02,Lactose Free Milk - 500ml,10
+2021-08-12,Lactose Free Milk - 500ml,4
+2021-08-20,Lactose Free Milk - 500ml,3
+2021-08-24,Lactose Free Milk - 500ml,5
+2021-09-01,Lactose Free Milk - 500ml,5
+2021-09-03,Lactose Free Milk - 500ml,4
+2021-09-07,Lactose Free Milk - 500ml,4
+2021-09-25,Lactose Free Milk - 500ml,2
+2021-09-27,Lactose Free Milk - 500ml,5
+2021-10-01,Lactose Free Milk - 500ml,2
+2021-10-03,Lactose Free Milk - 500ml,1
+2021-10-05,Lactose Free Milk - 500ml,4
+2021-10-11,Lactose Free Milk - 500ml,9
+2021-10-26,Lactose Free Milk - 500ml,1
+2021-10-27,Lactose Free Milk - 500ml,2
+2021-10-28,Lactose Free Milk - 500ml,2
+2021-11-09,Lactose Free Milk - 500ml,2
+2021-11-17,Lactose Free Milk - 500ml,10
+2021-12-10,Lactose Free Milk - 500ml,2
+2021-12-15,Lactose Free Milk - 500ml,10
+2021-12-16,Lactose Free Milk - 500ml,10
+2021-12-20,Lactose Free Milk - 500ml,1
+2021-12-21,Lactose Free Milk - 500ml,4
+2022-01-13,Lactose Free Milk - 500ml,10
+2022-01-15,Lactose Free Milk - 500ml,3
+2022-01-18,Lactose Free Milk - 500ml,3
+2022-01-23,Lactose Free Milk - 500ml,10
+2022-01-24,Lactose Free Milk - 500ml,2
+2022-01-27,Lactose Free Milk - 500ml,2
+2022-01-28,Lactose Free Milk - 500ml,2
+2022-01-31,Lactose Free Milk - 500ml,18
+2022-02-07,Lactose Free Milk - 500ml,4
+2022-02-08,Lactose Free Milk - 500ml,16
+2022-02-09,Lactose Free Milk - 500ml,4
+2022-02-10,Lactose Free Milk - 500ml,2
+2022-02-13,Lactose Free Milk - 500ml,4
+2022-02-23,Lactose Free Milk - 500ml,2
+2022-03-09,Lactose Free Milk - 500ml,9
+2022-03-15,Lactose Free Milk - 500ml,3
+2022-03-20,Lactose Free Milk - 500ml,9
+2022-05-17,Lactose Free Milk - 500ml,5
+2022-05-19,Lactose Free Milk - 500ml,1
+2022-05-21,Lactose Free Milk - 500ml,2
+2022-05-22,Lactose Free Milk - 500ml,8
+2022-05-27,Lactose Free Milk - 500ml,3
+2022-05-28,Lactose Free Milk - 500ml,13
+2022-05-30,Lactose Free Milk - 500ml,2
+2022-06-03,Lactose Free Milk - 500ml,2
+2022-06-23,Lactose Free Milk - 500ml,7
+2022-07-05,Lactose Free Milk - 500ml,4
+2022-07-07,Lactose Free Milk - 500ml,2
+2022-07-11,Lactose Free Milk - 500ml,4
+2022-07-14,Lactose Free Milk - 500ml,1
+2022-07-15,Lactose Free Milk - 500ml,3
+2022-07-16,Lactose Free Milk - 500ml,6
+2022-07-20,Lactose Free Milk - 500ml,1
+2022-07-21,Lactose Free Milk - 500ml,6
+2022-07-25,Lactose Free Milk - 500ml,2
+2022-07-27,Lactose Free Milk - 500ml,5
+2022-07-31,Lactose Free Milk - 500ml,1
+2022-08-19,Lactose Free Milk - 500ml,2
+2022-08-20,Lactose Free Milk - 500ml,6
+2022-08-24,Lactose Free Milk - 500ml,2
+2022-08-25,Lactose Free Milk - 500ml,3
+2022-08-28,Lactose Free Milk - 500ml,6
+2022-09-01,Lactose Free Milk - 500ml,2
+2022-09-06,Lactose Free Milk - 500ml,1
+2022-09-09,Lactose Free Milk - 500ml,6
+2022-09-12,Lactose Free Milk - 500ml,5
+2022-09-20,Lactose Free Milk - 500ml,1
+2022-09-21,Lactose Free Milk - 500ml,4
+2022-09-25,Lactose Free Milk - 500ml,1
+2022-09-26,Lactose Free Milk - 500ml,1
+2022-09-27,Lactose Free Milk - 500ml,1
+2022-10-01,Lactose Free Milk - 500ml,1
+2022-10-03,Lactose Free Milk - 500ml,1
+2022-10-04,Lactose Free Milk - 500ml,1
+2022-10-05,Lactose Free Milk - 500ml,4
+2022-10-06,Lactose Free Milk - 500ml,3
+2022-10-09,Lactose Free Milk - 500ml,2
+2022-10-10,Lactose Free Milk - 500ml,1
+2022-10-11,Lactose Free Milk - 500ml,6
+2022-10-13,Lactose Free Milk - 500ml,1
+2022-10-14,Lactose Free Milk - 500ml,3
+2022-10-17,Lactose Free Milk - 500ml,11
+2022-10-19,Lactose Free Milk - 500ml,1
+2022-10-21,Lactose Free Milk - 500ml,1
+2022-10-24,Lactose Free Milk - 500ml,5
+2022-10-27,Lactose Free Milk - 500ml,2
+2022-10-29,Lactose Free Milk - 500ml,1
+2022-10-31,Lactose Free Milk - 500ml,4
+2022-11-03,Lactose Free Milk - 500ml,6
+2022-11-05,Lactose Free Milk - 500ml,1
+2022-11-07,Lactose Free Milk - 500ml,3
+2022-11-15,Lactose Free Milk - 500ml,1
+2022-11-18,Lactose Free Milk - 500ml,2
+2022-11-19,Lactose Free Milk - 500ml,1
+2023-03-04,Bio Lactose Free Milk - 500ml,3
+2023-03-05,Bio Lactose Free Milk - 500ml,6
+2023-03-06,Bio Lactose Free Milk - 500ml,2
+2023-03-11,Bio Lactose Free Milk - 500ml,4
+2023-03-12,Bio Lactose Free Milk - 500ml,1
+2023-03-13,Bio Lactose Free Milk - 500ml,2
+2023-03-15,Bio Lactose Free Milk - 500ml,7
+2023-03-16,Bio Lactose Free Milk - 500ml,1
+2023-03-19,Bio Lactose Free Milk - 500ml,9
+2023-03-20,Bio Lactose Free Milk - 500ml,1
+2023-03-26,Bio Lactose Free Milk - 500ml,4
+2023-03-27,Bio Lactose Free Milk - 500ml,2
+2023-03-28,Bio Lactose Free Milk - 500ml,5
+2023-03-29,Bio Lactose Free Milk - 500ml,2
+2023-03-30,Bio Lactose Free Milk - 500ml,2
+2023-04-01,Bio Lactose Free Milk - 500ml,1
+2023-04-02,Bio Lactose Free Milk - 500ml,4
+2023-04-03,Bio Lactose Free Milk - 500ml,1
+2023-04-04,Bio Lactose Free Milk - 500ml,1
+2023-04-05,Bio Lactose Free Milk - 500ml,2
+2023-04-07,Bio Lactose Free Milk - 500ml,4
+2023-04-09,Bio Lactose Free Milk - 500ml,3
+2023-04-11,Bio Lactose Free Milk - 500ml,1
+2023-04-21,Bio Lactose Free Milk - 500ml,2
+2023-04-23,Bio Lactose Free Milk - 500ml,4
+2023-04-24,Bio Lactose Free Milk - 500ml,1
+2023-04-25,Bio Lactose Free Milk - 500ml,2
+2023-04-27,Bio Lactose Free Milk - 500ml,1
+2023-05-03,Bio Lactose Free Milk - 500ml,1
+2023-05-06,Bio Lactose Free Milk - 500ml,1
+2023-05-08,Bio Lactose Free Milk - 500ml,1
+2023-05-11,Bio Lactose Free Milk - 500ml,5
+2023-05-12,Bio Lactose Free Milk - 500ml,3
+2023-05-14,Bio Lactose Free Milk - 500ml,4
+2023-05-15,Bio Lactose Free Milk - 500ml,2
+2023-05-21,Bio Lactose Free Milk - 500ml,4
+2023-05-24,Bio Lactose Free Milk - 500ml,1
+2023-05-26,Bio Lactose Free Milk - 500ml,3
+2023-05-28,Bio Lactose Free Milk - 500ml,1
+2023-05-29,Bio Lactose Free Milk - 500ml,1
+2023-05-30,Bio Lactose Free Milk - 500ml,2
+2023-05-31,Bio Lactose Free Milk - 500ml,1
+2023-06-01,Bio Lactose Free Milk - 500ml,1
+2023-06-02,Bio Lactose Free Milk - 500ml,1
+2023-06-04,Bio Lactose Free Milk - 500ml,8
+2023-06-06,Bio Lactose Free Milk - 500ml,4
+2023-06-12,Bio Lactose Free Milk - 500ml,1
+2023-06-13,Bio Lactose Free Milk - 500ml,3
+2023-06-17,Bio Lactose Free Milk - 500ml,1
+2023-06-18,Bio Lactose Free Milk - 500ml,5
+2023-06-20,Bio Lactose Free Milk - 500ml,2
+2023-06-22,Bio Lactose Free Milk - 500ml,5
+2023-06-25,Bio Lactose Free Milk - 500ml,5
+2023-06-27,Bio Lactose Free Milk - 500ml,1
+2023-06-28,Bio Lactose Free Milk - 500ml,4
+2023-06-29,Bio Lactose Free Milk - 500ml,3
+2023-07-04,Bio Lactose Free Milk - 500ml,1
+2023-07-05,Bio Lactose Free Milk - 500ml,1
+2023-08-19,Bio Lactose Free Milk - 500ml,8
+2023-08-21,Bio Lactose Free Milk - 500ml,6
+2023-08-23,Bio Lactose Free Milk - 500ml,1
+2023-08-24,Bio Lactose Free Milk - 500ml,7
+2023-08-26,Bio Lactose Free Milk - 500ml,1
+2023-08-27,Bio Lactose Free Milk - 500ml,11
+2023-09-02,Bio Lactose Free Milk - 500ml,2
+2023-09-03,Bio Lactose Free Milk - 500ml,1
+2023-09-04,Bio Lactose Free Milk - 500ml,2
+2023-09-05,Bio Lactose Free Milk - 500ml,4
+2023-09-06,Bio Lactose Free Milk - 500ml,6
+2023-09-07,Bio Lactose Free Milk - 500ml,1
+2023-09-08,Bio Lactose Free Milk - 500ml,1
+2023-09-10,Bio Lactose Free Milk - 500ml,3
+2023-09-11,Bio Lactose Free Milk - 500ml,5
+2023-09-12,Bio Lactose Free Milk - 500ml,5
+2023-09-15,Bio Lactose Free Milk - 500ml,3
+2023-09-18,Bio Lactose Free Milk - 500ml,7
+2023-09-20,Bio Lactose Free Milk - 500ml,2
+2023-09-21,Bio Lactose Free Milk - 500ml,5
+2023-09-23,Bio Lactose Free Milk - 500ml,1
+2023-09-24,Bio Lactose Free Milk - 500ml,1
+2023-09-25,Bio Lactose Free Milk - 500ml,5
+2023-09-27,Bio Lactose Free Milk - 500ml,7
+2023-09-28,Bio Lactose Free Milk - 500ml,2
+2023-10-01,Bio Lactose Free Milk - 500ml,2
+2023-10-02,Bio Lactose Free Milk - 500ml,10
+2023-11-25,Bio Lactose Free Milk - 500ml,2
+2023-11-27,Bio Lactose Free Milk - 500ml,2
+2023-12-04,Bio Lactose Free Milk - 500ml,2
+2023-12-06,Bio Lactose Free Milk - 500ml,3
+2023-12-07,Bio Lactose Free Milk - 500ml,1
+2023-12-09,Bio Lactose Free Milk - 500ml,1
+2023-12-12,Bio Lactose Free Milk - 500ml,6
+2023-12-13,Bio Lactose Free Milk - 500ml,7
+2023-12-14,Bio Lactose Free Milk - 500ml,7
+2023-12-15,Bio Lactose Free Milk - 500ml,6
+2023-12-18,Bio Lactose Free Milk - 500ml,11
+2023-12-19,Bio Lactose Free Milk - 500ml,2
+2023-12-20,Bio Lactose Free Milk - 500ml,1
+2023-12-23,Bio Lactose Free Milk - 500ml,5
+2023-12-27,Bio Lactose Free Milk - 500ml,1
+2023-12-29,Bio Lactose Free Milk - 500ml,3
+2023-12-30,Bio Lactose Free Milk - 500ml,9
+2024-01-01,Bio Lactose Free Milk - 500ml,2
+2024-01-02,Bio Lactose Free Milk - 500ml,2
+2024-01-03,Bio Lactose Free Milk - 500ml,2
+2024-01-04,Bio Lactose Free Milk - 500ml,2
+2024-01-05,Bio Lactose Free Milk - 500ml,26
+2024-01-06,Bio Lactose Free Milk - 500ml,5
+2024-01-07,Bio Lactose Free Milk - 500ml,8
+2024-01-08,Bio Lactose Free Milk - 500ml,7
+2024-01-09,Bio Lactose Free Milk - 500ml,3
+2024-01-10,Bio Lactose Free Milk - 500ml,2
+2024-01-11,Bio Lactose Free Milk - 500ml,1
+2024-01-13,Bio Lactose Free Milk - 500ml,9
+2024-01-14,Bio Lactose Free Milk - 500ml,3
+2024-01-15,Bio Lactose Free Milk - 500ml,1
+2024-01-16,Bio Lactose Free Milk - 500ml,4
+2024-01-17,Bio Lactose Free Milk - 500ml,3
+2024-01-18,Bio Lactose Free Milk - 500ml,1
+2024-01-19,Bio Lactose Free Milk - 500ml,1
+2024-01-20,Bio Lactose Free Milk - 500ml,17
+2024-02-03,Bio Lactose Free Milk - 500ml,6
+2024-02-05,Bio Lactose Free Milk - 500ml,39
+2024-02-07,Bio Lactose Free Milk - 500ml,1
+2024-02-08,Bio Lactose Free Milk - 500ml,2
+2024-02-21,Bio Lactose Free Milk - 500ml,32
+2024-02-23,Bio Lactose Free Milk - 500ml,2
+2024-02-25,Bio Lactose Free Milk - 500ml,17
+2024-02-26,Bio Lactose Free Milk - 500ml,10
+2024-02-27,Bio Lactose Free Milk - 500ml,2
+2024-02-28,Bio Lactose Free Milk - 500ml,1
+2024-02-29,Bio Lactose Free Milk - 500ml,11
+2024-03-01,Bio Lactose Free Milk - 500ml,12
+2024-03-02,Bio Lactose Free Milk - 500ml,1
+2024-03-03,Bio Lactose Free Milk - 500ml,2
+2024-03-04,Bio Lactose Free Milk - 500ml,9
+2024-03-05,Bio Lactose Free Milk - 500ml,1
+2024-03-06,Bio Lactose Free Milk - 500ml,11
+2024-03-09,Bio Lactose Free Milk - 500ml,1
+2024-03-11,Bio Lactose Free Milk - 500ml,36
+2024-03-12,Bio Lactose Free Milk - 500ml,1
+2024-03-13,Bio Lactose Free Milk - 500ml,2
+2024-03-16,Bio Lactose Free Milk - 500ml,7
+2024-03-17,Bio Lactose Free Milk - 500ml,11
+2024-03-19,Bio Lactose Free Milk - 500ml,8
+2024-03-20,Bio Lactose Free Milk - 500ml,1
+2024-03-21,Bio Lactose Free Milk - 500ml,30
+2024-03-22,Bio Lactose Free Milk - 500ml,1
+2024-03-23,Bio Lactose Free Milk - 500ml,9
+2024-03-25,Bio Lactose Free Milk - 500ml,5
+2024-03-26,Bio Lactose Free Milk - 500ml,1
+2024-03-27,Bio Lactose Free Milk - 500ml,1
+2024-03-28,Bio Lactose Free Milk - 500ml,3
+2024-03-29,Bio Lactose Free Milk - 500ml,4
+2024-03-30,Bio Lactose Free Milk - 500ml,9
+2024-04-01,Bio Lactose Free Milk - 500ml,3
+2024-04-02,Bio Lactose Free Milk - 500ml,5
+2024-04-03,Bio Lactose Free Milk - 500ml,2
+2024-04-07,Bio Lactose Free Milk - 500ml,5
+2024-04-08,Bio Lactose Free Milk - 500ml,3
+2024-04-09,Bio Lactose Free Milk - 500ml,10
+2024-04-10,Bio Lactose Free Milk - 500ml,4
+2024-04-11,Bio Lactose Free Milk - 500ml,2
+2024-04-12,Bio Lactose Free Milk - 500ml,6
+2024-04-13,Bio Lactose Free Milk - 500ml,23
+2024-04-14,Bio Lactose Free Milk - 500ml,6
+2024-04-15,Bio Lactose Free Milk - 500ml,2
+2024-04-16,Bio Lactose Free Milk - 500ml,3
+2024-04-17,Bio Lactose Free Milk - 500ml,10
+2024-04-18,Bio Lactose Free Milk - 500ml,32
+2024-04-19,Bio Lactose Free Milk - 500ml,3
+2024-04-20,Bio Lactose Free Milk - 500ml,4
+2024-04-21,Bio Lactose Free Milk - 500ml,10
+2024-04-22,Bio Lactose Free Milk - 500ml,12
+2024-04-25,Bio Lactose Free Milk - 500ml,4
+2024-04-26,Bio Lactose Free Milk - 500ml,9
+2024-04-27,Bio Lactose Free Milk - 500ml,12
+2024-04-28,Bio Lactose Free Milk - 500ml,2
+2024-04-29,Bio Lactose Free Milk - 500ml,25
+2024-04-30,Bio Lactose Free Milk - 500ml,21
+2024-05-02,Bio Lactose Free Milk - 500ml,2
+2024-05-03,Bio Lactose Free Milk - 500ml,17
+2024-05-04,Bio Lactose Free Milk - 500ml,15
+2024-05-05,Bio Lactose Free Milk - 500ml,3
+2024-05-06,Bio Lactose Free Milk - 500ml,5
+2024-05-07,Bio Lactose Free Milk - 500ml,4
+2024-05-08,Bio Lactose Free Milk - 500ml,8
+2024-05-10,Bio Lactose Free Milk - 500ml,18
+2024-05-12,Bio Lactose Free Milk - 500ml,1
+2024-05-13,Bio Lactose Free Milk - 500ml,3
+2024-05-14,Bio Lactose Free Milk - 500ml,20
+2024-05-15,Bio Lactose Free Milk - 500ml,5
+2024-05-16,Bio Lactose Free Milk - 500ml,3
+2024-05-17,Bio Lactose Free Milk - 500ml,13
+2024-05-18,Bio Lactose Free Milk - 500ml,2
+2024-05-22,Bio Lactose Free Milk - 500ml,30
+2024-05-23,Bio Lactose Free Milk - 500ml,21
+2024-05-24,Bio Lactose Free Milk - 500ml,1
+2024-05-25,Bio Lactose Free Milk - 500ml,2
+2024-05-28,Bio Lactose Free Milk - 500ml,2
+2024-05-29,Bio Lactose Free Milk - 500ml,1
+2024-05-30,Bio Lactose Free Milk - 500ml,15
+2024-05-31,Bio Lactose Free Milk - 500ml,5
+2024-06-01,Bio Lactose Free Milk - 500ml,3
+2024-06-02,Bio Lactose Free Milk - 500ml,12
+2024-06-05,Bio Lactose Free Milk - 500ml,26
+2024-06-07,Bio Lactose Free Milk - 500ml,15
+2024-06-08,Bio Lactose Free Milk - 500ml,7
+2024-06-09,Bio Lactose Free Milk - 500ml,2
+2024-06-11,Bio Lactose Free Milk - 500ml,2
+2024-06-12,Bio Lactose Free Milk - 500ml,15
+2024-06-13,Bio Lactose Free Milk - 500ml,17
+2024-06-14,Bio Lactose Free Milk - 500ml,1
+2024-06-15,Bio Lactose Free Milk - 500ml,5
+2024-06-17,Bio Lactose Free Milk - 500ml,4
+2024-06-18,Bio Lactose Free Milk - 500ml,6
+2024-06-19,Bio Lactose Free Milk - 500ml,14
+2024-06-20,Bio Lactose Free Milk - 500ml,2
+2024-06-21,Bio Lactose Free Milk - 500ml,37
+2024-06-22,Bio Lactose Free Milk - 500ml,5
+2024-06-23,Bio Lactose Free Milk - 500ml,6
+2024-06-24,Bio Lactose Free Milk - 500ml,18
+2024-06-26,Bio Lactose Free Milk - 500ml,1
+2024-06-28,Bio Lactose Free Milk - 500ml,2
+2024-06-29,Bio Lactose Free Milk - 500ml,19
+2024-06-30,Bio Lactose Free Milk - 500ml,6
+2024-07-01,Bio Lactose Free Milk - 500ml,26
+2024-07-02,Bio Lactose Free Milk - 500ml,1
+2024-07-04,Bio Lactose Free Milk - 500ml,7
+2024-07-05,Bio Lactose Free Milk - 500ml,4
+2024-07-06,Bio Lactose Free Milk - 500ml,2
+2024-07-07,Bio Lactose Free Milk - 500ml,15
+2024-07-10,Bio Lactose Free Milk - 500ml,3
+2024-07-11,Bio Lactose Free Milk - 500ml,16
+2024-07-13,Bio Lactose Free Milk - 500ml,21
+2024-07-15,Bio Lactose Free Milk - 500ml,7
+2024-07-17,Bio Lactose Free Milk - 500ml,3
+2024-07-19,Bio Lactose Free Milk - 500ml,20
+2024-07-20,Bio Lactose Free Milk - 500ml,10
+2024-07-21,Bio Lactose Free Milk - 500ml,6
+2024-07-24,Bio Lactose Free Milk - 500ml,10
+2024-07-25,Bio Lactose Free Milk - 500ml,1
+2024-07-27,Bio Lactose Free Milk - 500ml,3
+2024-07-28,Bio Lactose Free Milk - 500ml,7
+2024-07-29,Bio Lactose Free Milk - 500ml,15
+2024-08-03,Bio Lactose Free Milk - 500ml,17
+2024-08-04,Bio Lactose Free Milk - 500ml,5
+2024-08-05,Bio Lactose Free Milk - 500ml,1
+2024-08-07,Bio Lactose Free Milk - 500ml,5
+2024-08-08,Bio Lactose Free Milk - 500ml,30
+2024-08-10,Bio Lactose Free Milk - 500ml,1
+2024-08-11,Bio Lactose Free Milk - 500ml,1
+2024-08-13,Bio Lactose Free Milk - 500ml,3

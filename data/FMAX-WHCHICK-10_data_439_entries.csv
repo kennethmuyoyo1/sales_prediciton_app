@@ -1,0 +1,440 @@
+Date,Product Name,Quantity
+2018-12-07,Farmer Max Pasture Raised Whole Chicken,1
+2018-12-08,Farmer Max Pasture Raised Whole Chicken,1
+2018-12-09,Farmer Max Pasture Raised Whole Chicken,1
+2018-12-20,Farmer Max Pasture Raised Whole Chicken,3
+2018-12-29,Farmer Max Pasture Raised Whole Chicken,1
+2019-01-03,Farmer Max Pasture Raised Whole Chicken,1
+2019-01-18,Farmer Max Pasture Raised Whole Chicken,1
+2019-01-23,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-07,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-08,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-10,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-11,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-19,Farmer Max Pasture Raised Whole Chicken,1
+2019-02-22,Farmer Max Pasture Raised Whole Chicken,2
+2019-03-04,Farmer Max Pasture Raised Whole Chicken,2
+2019-03-06,Farmer Max Pasture Raised Whole Chicken,2
+2019-03-10,Farmer Max Pasture Raised Whole Chicken,2
+2019-03-22,Farmer Max Pasture Raised Whole Chicken,1
+2019-03-30,Farmer Max Pasture Raised Whole Chicken,2
+2019-04-05,Farmer Max Pasture Raised Whole Chicken,1
+2019-04-12,Farmer Max Pasture Raised Whole Chicken,2
+2019-04-23,Farmer Max Pasture Raised Whole Chicken,1
+2019-04-25,Farmer Max Pasture Raised Whole Chicken,1
+2019-04-26,Farmer Max Pasture Raised Whole Chicken,2
+2019-05-03,Farmer Max Pasture Raised Whole Chicken,1
+2019-05-11,Farmer Max Pasture Raised Whole Chicken,1
+2019-05-22,Farmer Max Pasture Raised Whole Chicken,1
+2019-05-30,Farmer Max Pasture Raised Whole Chicken,1
+2019-05-31,Farmer Max Pasture Raised Whole Chicken,5
+2019-06-03,Farmer Max Pasture Raised Whole Chicken,1
+2019-06-11,Farmer Max Pasture Raised Whole Chicken,3
+2019-06-12,Farmer Max Pasture Raised Whole Chicken,1
+2019-07-04,Farmer Max Pasture Raised Whole Chicken,3
+2019-07-09,Farmer Max Pasture Raised Whole Chicken,2
+2019-07-11,Farmer Max Pasture Raised Whole Chicken,5
+2019-07-15,Farmer Max Pasture Raised Whole Chicken,3
+2019-07-16,Farmer Max Pasture Raised Whole Chicken,1
+2019-07-17,Farmer Max Pasture Raised Whole Chicken,1
+2019-07-19,Farmer Max Pasture Raised Whole Chicken,1
+2019-07-30,Farmer Max Pasture Raised Whole Chicken,1
+2019-08-01,Farmer Max Pasture Raised Whole Chicken,1
+2019-08-21,Farmer Max Pasture Raised Whole Chicken,3
+2019-08-22,Farmer Max Pasture Raised Whole Chicken,1
+2019-08-23,Farmer Max Pasture Raised Whole Chicken,1
+2019-09-02,Farmer Max Pasture Raised Whole Chicken,3
+2019-10-13,Farmer Max Pasture Raised Whole Chicken,2
+2019-10-16,Farmer Max Pasture Raised Whole Chicken,1
+2019-10-18,Farmer Max Pasture Raised Whole Chicken,1
+2019-10-24,Farmer Max Pasture Raised Whole Chicken,6
+2019-11-14,Farmer Max Pasture Raised Whole Chicken,3
+2019-12-03,Farmer Max Pasture Raised Whole Chicken,2
+2019-12-13,Farmer Max Pasture Raised Whole Chicken,1
+2019-12-15,Farmer Max Pasture Raised Whole Chicken,7
+2019-12-16,Farmer Max Pasture Raised Whole Chicken,2
+2019-12-18,Farmer Max Pasture Raised Whole Chicken,1
+2019-12-29,Farmer Max Pasture Raised Whole Chicken,1
+2020-01-17,Farmer Max Whole Chicken - 1.9kg,1
+2020-01-18,Farmer Max Whole Chicken - 1.9kg,1
+2020-01-22,Farmer Max Whole Chicken - 1.9kg,1
+2020-01-24,Farmer Max Whole Chicken - 1.9kg,3
+2020-01-27,Farmer Max Whole Chicken - 1.9kg,3
+2020-01-28,Farmer Max Whole Chicken - 1.9kg,3
+2020-01-31,Farmer Max Whole Chicken - 1.9kg,3
+2020-02-03,Farmer Max Whole Chicken - 1.9kg,1
+2020-02-04,Farmer Max Whole Chicken - 1.9kg,1
+2020-02-06,Farmer Max Whole Chicken - 1.9kg,1
+2020-03-04,Farmer Max Whole Chicken - 1.9kg,4
+2020-03-06,Farmer Max Whole Chicken - 1.9kg,2
+2020-03-07,Farmer Max Whole Chicken - 1.9kg,1
+2020-03-16,Farmer Max Whole Chicken - 1.9kg,3
+2020-03-18,Farmer Max Whole Chicken - 1.9kg,1
+2020-03-19,Farmer Max Whole Chicken - 1.9kg,1
+2020-03-24,Farmer Max Whole Chicken - 1.9kg,1
+2020-03-25,Farmer Max Whole Chicken - 1.9kg,2
+2020-03-26,Farmer Max Whole Chicken - 1.9kg,1
+2020-04-15,Farmer Max Whole Chicken - 1.9kg,1
+2020-04-17,Farmer Max Whole Chicken - 1.9kg,2
+2020-04-18,Farmer Max Whole Chicken - 1.9kg,1
+2020-04-20,Farmer Max Whole Chicken - 1.9kg,10
+2020-04-21,Farmer Max Whole Chicken - 1.9kg,2
+2020-04-22,Farmer Max Whole Chicken - 1.9kg,2
+2020-04-23,Farmer Max Whole Chicken - 1.9kg,2
+2020-05-02,Farmer Max Whole Chicken - 1.9kg,1
+2020-05-04,Farmer Max Whole Chicken - 1.9kg,1
+2020-05-05,Farmer Max Whole Chicken - 1.9kg,2
+2020-05-08,Farmer Max Whole Chicken - 1.9kg,5
+2020-05-11,Farmer Max Whole Chicken - 1.9kg,5
+2020-06-02,Farmer Max Whole Chicken - 1.9kg,1
+2020-06-04,Farmer Max Whole Chicken - 1.9kg,2
+2020-06-12,Farmer Max Whole Chicken - 1.9kg,1
+2020-06-14,Farmer Max Whole Chicken - 1.9kg,1
+2020-07-11,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-07-15,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-07-17,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-07-17,Farmer Max Whole Chicken - 1.9kg,1
+2020-07-21,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-08-03,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-08-04,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-08-05,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-08-10,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-08-11,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-08-12,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-08-25,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2020-08-28,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-01,Farmer Max Pasture Raised Whole Chicken - 1.9kg,5
+2020-09-03,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-04,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2020-09-07,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2020-09-11,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-09-14,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-09-16,Farmer Max Pasture Raised Whole Chicken - 1.9kg,7
+2020-09-17,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-21,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-22,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-23,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-09-24,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-09-28,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-10-09,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-10-12,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-10-13,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-10-19,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-10-21,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-10-22,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2020-10-26,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-10-30,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-11-04,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-11-05,Farmer Max Pasture Raised Whole Chicken - 1.9kg,9
+2020-11-20,Farmer Max Pasture Raised Whole Chicken - 1.9kg,4
+2020-11-23,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-11-27,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-12-01,Farmer Max Pasture Raised Whole Chicken - 1.9kg,7
+2020-12-09,Farmer Max Pasture Raised Whole Chicken - 1.9kg,3
+2020-12-16,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-12-20,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2020-12-28,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2021-01-21,Farmer Max Pasture Raised Whole Chicken,1
+2021-02-10,Farmer Max Pasture Raised Whole Chicken,1
+2021-02-12,Farmer Max Pasture Raised Whole Chicken,1
+2021-02-15,Farmer Max Pasture Raised Whole Chicken,11
+2021-03-15,Farmer Max Pasture Raised Whole Chicken,2
+2021-03-17,Farmer Max Pasture Raised Whole Chicken,1
+2021-03-18,Farmer Max Pasture Raised Whole Chicken,1
+2021-03-19,Farmer Max Pasture Raised Whole Chicken,3
+2021-03-22,Farmer Max Pasture Raised Whole Chicken,6
+2021-03-23,Farmer Max Pasture Raised Whole Chicken,2
+2021-05-28,Farmer Max Pasture Raised Whole Chicken,1
+2021-05-31,Farmer Max Pasture Raised Whole Chicken,1
+2021-06-02,Farmer Max Pasture Raised Whole Chicken,2
+2021-06-04,Farmer Max Pasture Raised Whole Chicken,3
+2021-06-07,Farmer Max Pasture Raised Whole Chicken,4
+2021-06-08,Farmer Max Pasture Raised Whole Chicken,1
+2021-06-14,Farmer Max Pasture Raised Whole Chicken,2
+2021-06-18,Farmer Max Pasture Raised Whole Chicken,6
+2021-06-24,Farmer Max Pasture Raised Whole Chicken,6
+2021-06-25,Farmer Max Pasture Raised Whole Chicken,1
+2021-06-28,Farmer Max Pasture Raised Whole Chicken,1
+2021-06-30,Farmer Max Pasture Raised Whole Chicken,1
+2021-07-08,Farmer Max Pasture Raised Whole Chicken,1
+2021-07-10,Farmer Max Pasture Raised Whole Chicken,1
+2021-07-27,Farmer Max Pasture Raised Whole Chicken,2
+2021-07-28,Farmer Max Pasture Raised Whole Chicken,4
+2021-08-27,Farmer Max Pasture Raised Whole Chicken,1
+2021-09-01,Farmer Max Pasture Raised Whole Chicken,1
+2021-09-02,Farmer Max Pasture Raised Whole Chicken,3
+2021-09-03,Farmer Max Pasture Raised Whole Chicken,5
+2021-09-27,Farmer Max Pasture Raised Whole Chicken,1
+2021-09-29,Farmer Max Pasture Raised Whole Chicken,1
+2022-01-30,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2022-01-30,Farmer Max Pasture Raised Whole Chicken,1
+2022-01-31,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2022-01-31,Farmer Max Pasture Raised Whole Chicken,1
+2022-02-01,Farmer Max Pasture Raised Whole Chicken - 1.9kg,7
+2022-02-01,Farmer Max Pasture Raised Whole Chicken,7
+2022-02-12,Farmer Max Pasture Raised Whole Chicken - 1.9kg,2
+2022-02-12,Farmer Max Pasture Raised Whole Chicken,2
+2022-06-29,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2022-07-01,Farmer Max Pasture Raised Whole Chicken - 1.9kg,7
+2022-07-03,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2022-07-04,Farmer Max Pasture Raised Whole Chicken - 1.9kg,1
+2022-08-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-08-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-08-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,6
+2022-08-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2022-08-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2022-08-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-08-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-08-31,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-09-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,7
+2022-09-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-09-03,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-09-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-09-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-09-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-09-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-09-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2022-09-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-10-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-10-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-10-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-10-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-10-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,6
+2022-10-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2022-10-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2022-10-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2022-10-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2022-10-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-11-03,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,7
+2022-11-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-11-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-11-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-11-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2022-11-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2022-12-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-12-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-12-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-12-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-12-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,7
+2022-12-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2022-12-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2022-12-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-12-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2022-12-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2022-12-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-12-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2022-12-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2022-12-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-01-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-01-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-01-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-01-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-01-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-01-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,6
+2023-02-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-10,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-02-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-03-09,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-03-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-03-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-03-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-03-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-03-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-03-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-03-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-04-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-04,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-09,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-05-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-05-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2023-05-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-06-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-06-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-06-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-06-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-06-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-06-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-06-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-07-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-07-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-07-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-07-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-07-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-08-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-08-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-08-31,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-03,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-09-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-10-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-10-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,6
+2023-10-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-10-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-11-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-11-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-11-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-11-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2023-11-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-11-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-11-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2023-11-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-11-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-11-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2023-11-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-12-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-12-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,6
+2023-12-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-12-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2023-12-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,7
+2023-12-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2023-12-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2023-12-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-01-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-01-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,7
+2024-01-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-01-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-01-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2024-01-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-01-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-01-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-01-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-01-31,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-02-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-02-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-02-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2024-02-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-09,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-10,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-13,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-02-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-02-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-02-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-03-04,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-03-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-03-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-09,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,10
+2024-03-10,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-03-11,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-03-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-03-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-03-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-04-03,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-04-04,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-04-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-04-15,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-19,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-20,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-04-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-04-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-04-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-04-30,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-05-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-05-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-05-03,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-05-04,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-10,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-16,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-05-17,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,4
+2024-05-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-05-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,5
+2024-05-23,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-05-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-05-27,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-05-28,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-05-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-05-31,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-06-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-06,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-08,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-06-18,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-22,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-06-24,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-25,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-06-26,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-07-02,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-07-04,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-07-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-07-09,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-07-14,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-07-21,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-07-29,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-07-31,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
+2024-08-01,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,3
+2024-08-05,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-08-07,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,1
+2024-08-12,Farmer Max Pasture Raised Whole Chicken (Frozen) - 1.9kg,2
