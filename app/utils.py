@@ -11,13 +11,15 @@ from prophet import Prophet
 
 def setup_logging():
     """Configure logging for the application"""
+    log_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), 'logs')
+    os.makedirs(log_dir, exist_ok=True)
     logging.basicConfig(
         level=logging.INFO if os.getenv('LOG_LEVEL') != 'DEBUG' else logging.DEBUG,
         format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
         handlers=[
             logging.StreamHandler(),  # Log to console
             logging.FileHandler(
-                os.getenv('LOG_FILE', '/app/logs/app.log')
+                os.path.join(log_dir, 'app.log')
             )  # Log to file
         ]
     )
